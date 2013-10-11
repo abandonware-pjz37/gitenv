@@ -1,0 +1,15 @@
+[submodule "google/gmock"]
+	path = google/gmock
+	url = https://chromium.googlesource.com/external/gmock
+[submodule "google/breakpad"]
+	path = google/breakpad
+	url = https://chromium.googlesource.com/external/google-breakpad
+[submodule "google/gtest"]
+	path = google/gtest
+	url = https://chromium.googlesource.com/external/gtest
+[submodule "google/lss"]
+	path = google/lss
+	url = https://chromium.googlesource.com/external/linux-syscall-support
+[submodule "google/webrtc"]
+	path = google/webrtc
+	url = https://chromium.googlesource.com/external/webrtc
