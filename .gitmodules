@@ -211,3 +211,18 @@
 [submodule "boost/xpressive"]
 	path = boost/xpressive
 	url = http://github.com/boostorg/xpressive
+[submodule "llvm/clang"]
+	path = llvm/clang
+	url = http://llvm.org/git/clang
+[submodule "llvm/compiler-rt"]
+	path = llvm/compiler-rt
+	url = http://llvm.org/git/compiler-rt
+[submodule "llvm/libcxx"]
+	path = llvm/libcxx
+	url = http://llvm.org/git/libcxx
+[submodule "llvm/libcxxabi"]
+	path = llvm/libcxxabi
+	url = http://llvm.org/git/libcxxabi
+[submodule "llvm/llvm"]
+	path = llvm/llvm
+	url = http://llvm.org/git/llvm
