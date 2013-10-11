@@ -226,3 +226,27 @@
 [submodule "llvm/llvm"]
 	path = llvm/llvm
 	url = http://llvm.org/git/llvm
+[submodule "doxygen"]
+	path = doxygen
+	url = http://github.com/doxygen/doxygen.git
+[submodule "cmake"]
+	path = cmake
+	url = http://cmake.org/cmake.git
+[submodule "gnu/glibc"]
+	path = gnu/glibc
+	url = git://sourceware.org/git/glibc.git
+[submodule "gnu/gcc"]
+	path = gnu/gcc
+	url = git://gcc.gnu.org/git/gcc.git
+[submodule "nginx"]
+	path = nginx
+	url = http://github.com/nginx/nginx
+[submodule "safe_numerics"]
+	path = safe_numerics
+	url = http://github.com/robertramey/safe_numerics
+[submodule "cpp-netlib"]
+	path = cpp-netlib
+	url = http://github.com/cpp-netlib/cpp-netlib
+[submodule "uri"]
+	path = uri
+	url = http://github.com/cpp-netlib/uri
