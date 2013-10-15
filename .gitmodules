@@ -250,9 +250,3 @@
 [submodule "uri"]
   path = uri
   url = http://github.com/cpp-netlib/uri
-[submodule "configs/unix"]
-  path = configs/unix
-  url = https://github.com/ruslo/unix-configs.git
-[submodule "scripts/python"]
-	path = scripts/python
-	url = https://github.com/ruslo/python-scripts
