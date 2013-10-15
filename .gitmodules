@@ -253,3 +253,6 @@
 [submodule "configs/unix"]
   path = configs/unix
   url = https://github.com/ruslo/unix-configs.git
+[submodule "scripts/python"]
+	path = scripts/python
+	url = https://github.com/ruslo/python-scripts
