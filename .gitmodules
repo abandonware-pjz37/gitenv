@@ -250,3 +250,6 @@
 [submodule "configs"]
   path = configs
   url = https://github.com/ruslo/configs
+[submodule "git"]
+  path = git
+  url = https://github.com/git/git
