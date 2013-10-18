@@ -34,9 +34,6 @@
 [submodule "boost/bind"]
   path = boost/bind
   url = http://github.com/boostorg/bind
-[submodule "boost/boost"]
-  path = boost/boost
-  url = http://github.com/boostorg/boost
 [submodule "boost/chrono"]
   path = boost/chrono
   url = http://github.com/boostorg/chrono
