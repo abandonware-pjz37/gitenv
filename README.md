@@ -1,6 +1,15 @@
 # gitenv
 **Git** **Env**ironment meta-project (gtest, boost, llvm, cmake, ...)
 
+This is simply a collection of some *official* git repos. The goal of the project is to have unified
+layout of directory with git repos. That is, if you have to clone some of this repos **anyway**, why don't
+have similar struct everytime (every machine) and have some benefits from it (see:
+[server](https://github.com/ruslo/gitenv/wiki/Creating-mirror-server),
+[configs](https://github.com/ruslo/configs),
+[extra path](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh)).
+It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
+software manager like `apt`, `emerge`, `macports`, ...
+
 ## usage
 Copy [gitenv](https://github.com/ruslo/gitenv) repo:
 ```bash
@@ -21,7 +30,7 @@ Submodule 'llvm/libcxxabi' (http://llvm.org/git/libcxxabi) registered for path '
 ```
 Load inited submodules from remotes:
 ```bash
->git submodule update 
+> git submodule update 
 Cloning into 'doxygen'...
 remote: Counting objects: 23978, done.
 remote: Compressing objects: 100% (3004/3004), done.
@@ -48,7 +57,7 @@ Submodule path 'llvm/libcxxabi': checked out '6dc154019d5f0997d7df1d9e9f3ba14253
 Submodules now is in [detach](http://git-scm.com/docs/git-submodule) state, probably you want to switch
 to some branch, for example *master*:
 ```bash
->git submodule foreach 'git checkout master'
+> git submodule foreach 'git checkout master'
 Entering 'doxygen'
 Switched to branch 'master'
 Entering 'google/gmock'
