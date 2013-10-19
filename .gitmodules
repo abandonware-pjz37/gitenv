@@ -253,3 +253,6 @@
 [submodule "git"]
   path = git
   url = https://github.com/git/git
+[submodule "sugar"]
+  path = sugar
+  url = https://github.com/ruslo/sugar
