@@ -5,7 +5,7 @@ This is simply a collection of some *official* git repos. The goal of the projec
 layout of directory with git repos. That is, if you have to clone some of this repos **anyway**, why don't
 have similar struct everytime (every machine) and have some benefits from it (see:
 [server](https://github.com/ruslo/gitenv/wiki/Creating-mirror-server),
-[configs](https://github.com/ruslo/configs),
+[configs](https://github.com/ruslo/configs#integration-with-gitenv),
 [extra path](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh)).
 It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
 software manager like `apt`, `emerge`, `macports`, ...
