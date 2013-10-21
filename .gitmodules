@@ -256,3 +256,6 @@
 [submodule "sugar"]
   path = sugar
   url = https://github.com/ruslo/sugar
+[submodule "json/rapidjson"]
+  path = json/rapidjson
+  url = https://github.com/ruslo/rapidjson
