@@ -6,7 +6,8 @@ layout of directory with git repos. That is, if you have to clone some of this r
 have similar struct everytime (every machine) and have some benefits from it (see:
 [server](https://github.com/ruslo/gitenv/wiki/Creating-mirror-server),
 [configs](https://github.com/ruslo/configs#integration-with-gitenv),
-[extra path](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh)).
+[extra path](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh),
+[![Build Status](https://drone.io/github.com/ruslo/gitenv/status.png)](https://drone.io/github.com/ruslo/gitenv/latest)).
 It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
 software manager like `apt`, `emerge`, `macports`, ...
 
