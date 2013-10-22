@@ -1,15 +1,16 @@
 # gitenv
 **Git** **Env**ironment meta-project (gtest, boost, llvm, cmake, ...)
 
-This is simply a collection of some *official* git repos. The goal of the project is to have unified
+This is simply a collection of some git repos. The goal of the project is to have unified
 layout of directory with git repos. That is, if you have to clone some of this repos **anyway**, why don't
-have similar struct everytime (every machine) and have some benefits from it (see:
-[server](https://github.com/ruslo/gitenv/wiki/Creating-mirror-server),
-[configs](https://github.com/ruslo/configs#integration-with-gitenv),
-[bash paths](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh),
-[cmake paths](https://github.com/ruslo/sugar/blob/master/cmake/core/sugar_setup_gitenv_paths.cmake),
-[![Build Status](https://drone.io/github.com/ruslo/gitenv/status.png)](https://drone.io/github.com/ruslo/gitenv/latest)).
-It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
+have similar struct everytime (every machine) and have some benefits from it.
+* [server](https://github.com/ruslo/gitenv/wiki/Creating-mirror-server)
+* [configs](https://github.com/ruslo/configs#integration-with-gitenv)
+* [bash paths](https://github.com/ruslo/configs/blob/master/unix/gitenv-extra.sh)
+* [cmake paths](https://github.com/ruslo/sugar/blob/master/cmake/core/sugar_setup_gitenv_paths.cmake)
+* [![Build Status](https://drone.io/github.com/ruslo/gitenv/status.png)](https://drone.io/github.com/ruslo/gitenv/latest)
+
+*Note*: It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
 software manager like `apt`, `emerge`, `macports`, ...
 
 ## usage
