@@ -13,7 +13,7 @@ script:
     - python configs/setup.py --gitenv-root `pwd` --force
     - source ~/.bashrc # now GITENV_ROOT environment variable can be used
     - which gvim.py # test PATH updated
-    - which trash.py
+    - which trash.py # test PATH updated
 
     # test submodule: gtest
     - cd "${GITENV_ROOT}/google/gtest"
