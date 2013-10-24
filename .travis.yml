@@ -1,0 +1,25 @@
+language:
+    - python
+
+python:
+    - "3.3"
+
+before_script:
+    # test integration only, other tests can be found in stand-alone versions
+    - git submodule update --depth=1 --init ./configs ./sugar ./google/gtest ./json/rapidjson
+
+script:
+    # test submodule: configs
+    - python configs/setup.py --gitenv-root `pwd` --force
+    - source ~/.bashrc # now GITENV_ROOT environment variable can be used
+    - which gvim.py # test PATH updated
+    - which trash.py
+
+    # test submodule: gtest
+    - cd "${GITENV_ROOT}/google/gtest"
+    - cmake .
+    - make
+
+    # test submodule: sugar
+    - cd "${GITENV_ROOT}/sugar/examples"
+    - python test.py --include ./03-gtest ./09-rapidjson
