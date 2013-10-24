@@ -4,9 +4,12 @@ language:
 python:
     - "3.3"
 
-before_script:
+git:
+    submodules: false
+
+before_install:
     # test integration only, other tests can be found in stand-alone versions
-    - git submodule update --depth=1 --init ./configs ./sugar ./google/gtest ./json/rapidjson
+    - git submodule update --init ./configs ./sugar ./google/gtest ./json/rapidjson
 
 script:
     # test submodule: configs
