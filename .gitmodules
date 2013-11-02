@@ -259,3 +259,6 @@
 [submodule "json/rapidjson"]
   path = json/rapidjson
   url = https://github.com/ruslo/rapidjson
+[submodule "polly"]
+  path = polly
+  url = https://github.com/ruslo/polly
