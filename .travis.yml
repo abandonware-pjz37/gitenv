@@ -8,7 +8,7 @@ git:
     submodules: false
 
 before_install:
-    # test integration only, other tests can be found in stand-alone versions
+    # test integration only, other tests can be found in standalone versions
     - git submodule update --init ./configs ./sugar ./google/gtest ./json/rapidjson
 
 script:
@@ -23,6 +23,6 @@ script:
     - cmake .
     - make
 
-    # test submodule: sugar
+    # test submodule: sugar (other tests in sugar standalone, TODO: boost)
     - cd "${GITENV_ROOT}/sugar/examples"
     - python test.py --include ./03-gtest ./09-rapidjson
