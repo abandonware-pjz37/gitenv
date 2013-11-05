@@ -15,6 +15,9 @@ before_install:
     - "wget https://launchpad.net/ubuntu/+archive/primary/+files/cmake-data_2.8.8-2ubuntu1_all.deb"
     - "sudo apt-get remove cmake-data cmake"
 
+install:
+    - "sudo dpkg --install cmake-data_2.8.8-2ubuntu1_all.deb cmake_2.8.8-2ubuntu1_amd64.deb"
+
 script:
     # test submodule: configs
     - python configs/setup.py --gitenv-root `pwd` --force
