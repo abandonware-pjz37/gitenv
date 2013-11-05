@@ -1,10 +1,10 @@
 # Copyright (c) 2013, Ruslan Baratov
 # All rights reserved.
 
-if(DEFINED GITENV_GITENV_GITENV_PATHS_CMAKE)
+if(DEFINED GITENV_GITENV_PATHS_CMAKE_)
   return()
 else()
-  set(GITENV_GITENV_GITENV_PATHS_CMAKE 1)
+  set(GITENV_GITENV_PATHS_CMAKE_ 1)
 endif()
 
 if(NOT GITENV_ROOT)
