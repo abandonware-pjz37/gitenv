@@ -21,4 +21,9 @@ then
       PATH="${SUGAR_ROOT}/python":${PATH}
     fi
   fi
+
+  if [ -r "${GITENV_ROOT}/polly/Common.cmake" ];
+  then
+    export POLLY_ROOT="${GITENV_ROOT}/polly"
+  fi
 fi
