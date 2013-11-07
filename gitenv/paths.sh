@@ -26,4 +26,9 @@ then
   then
     export POLLY_ROOT="${GITENV_ROOT}/polly"
   fi
+
+  if [ -r "${GITENV_ROOT}/hunter/cmake/Hunter" ];
+  then
+    export HUNTER_ROOT="${GITENV_ROOT}/hunter"
+  fi
 fi
