@@ -263,3 +263,6 @@
 [submodule "polly"]
   path = polly
   url = https://github.com/ruslo/polly
+[submodule "hunter"]
+  path = hunter
+  url = https://github.com/ruslo/hunter
