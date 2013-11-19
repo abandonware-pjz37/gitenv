@@ -6,8 +6,7 @@
   url = https://chromium.googlesource.com/external/google-breakpad
 [submodule "google/gtest"]
   path = google/gtest
-#  url = https://chromium.googlesource.com/external/gtest
-  url = https://github.com/ruslo/gtest
+  url = https://chromium.googlesource.com/external/gtest
 [submodule "google/lss"]
   path = google/lss
   url = https://chromium.googlesource.com/external/linux-syscall-support
