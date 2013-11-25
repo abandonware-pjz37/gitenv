@@ -29,7 +29,3 @@ script:
     - cd "${GITENV_ROOT}/google/gtest"
     - cmake .
     - make
-
-    # test submodule: sugar (other tests in sugar standalone, TODO: boost)
-    - cd "${GITENV_ROOT}/sugar/examples"
-    - python test.py --include ./03-gtest ./09-rapidjson
