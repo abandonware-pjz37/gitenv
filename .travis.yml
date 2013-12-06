@@ -9,14 +9,7 @@ git:
 
 before_install:
     - sudo apt-get update
-    # test integration only, other tests can be found in standalone versions
-    - git submodule update --init ./configs ./sugar ./google/gtest ./json/rapidjson
-    - "wget https://launchpad.net/ubuntu/+source/cmake/2.8.8-2ubuntu1/+build/3441442/+files/cmake_2.8.8-2ubuntu1_amd64.deb"
-    - "wget https://launchpad.net/ubuntu/+archive/primary/+files/cmake-data_2.8.8-2ubuntu1_all.deb"
-    - "sudo apt-get remove cmake-data cmake"
-
-install:
-    - "sudo dpkg --install cmake-data_2.8.8-2ubuntu1_all.deb cmake_2.8.8-2ubuntu1_amd64.deb"
+    - git submodule update --init ./configs ./google/gtest
 
 script:
     # test submodule: configs
@@ -29,7 +22,3 @@ script:
     - cd "${GITENV_ROOT}/google/gtest"
     - cmake .
     - make
-
-    # test submodule: sugar (other tests in sugar standalone, TODO: boost)
-    - cd "${GITENV_ROOT}/sugar/examples"
-    - python test.py --include ./03-gtest ./09-rapidjson
