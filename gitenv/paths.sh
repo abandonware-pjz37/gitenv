@@ -22,7 +22,7 @@ then
     fi
   fi
 
-  if [ -r "${GITENV_ROOT}/polly/Common.cmake" ];
+  if [ -r "${GITENV_ROOT}/polly/utilities/polly_common.cmake" ];
   then
     export POLLY_ROOT="${GITENV_ROOT}/polly"
   fi
