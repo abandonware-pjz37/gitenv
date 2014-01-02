@@ -265,3 +265,6 @@
 [submodule "hunter/Source"]
   path = hunter/Source
   url = https://github.com/ruslo/hunter
+[submodule "cmake"]
+  path = cmake
+  url = https://github.com/Kitware/CMake
