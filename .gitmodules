@@ -226,9 +226,6 @@
 [submodule "doxygen"]
   path = doxygen
   url = http://github.com/doxygen/doxygen.git
-[submodule "cmake"]
-  path = cmake
-  url = http://cmake.org/cmake.git
 [submodule "gnu/glibc"]
   path = gnu/glibc
   url = git://sourceware.org/git/glibc.git
