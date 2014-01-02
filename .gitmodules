@@ -265,3 +265,6 @@
 [submodule "gate"]
 	path = gate
 	url = https://github.com/hunter-packages/gate
+[submodule "hunter/Source"]
+	path = hunter/Source
+	url = https://github.com/ruslo/hunter
