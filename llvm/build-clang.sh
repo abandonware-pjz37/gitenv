@@ -32,9 +32,9 @@ ln -s "${GITENV_ROOT}/llvm/compiler-rt" \
 
 cd "${GITENV_ROOT}/llvm"
 
-rm -rf _builds
+rm -rf _build_clang
 
-cmake -Hllvm -B_builds -DCMAKE_VERBOSE_MAKEFILE=ON \
+cmake -Hllvm -B_build_clang -DCMAKE_VERBOSE_MAKEFILE=ON \
     -DCMAKE_INSTALL_PREFIX="`pwd`/_install" -DCMAKE_BUILD_TYPE=Release
 
-cmake --build _builds --target install
+cmake --build _build_clang --target install
