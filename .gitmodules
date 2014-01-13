@@ -268,3 +268,6 @@
 [submodule "cmake"]
   path = cmake
   url = https://github.com/Kitware/CMake
+[submodule "ruslo/weather"]
+  path = ruslo/weather
+  url = https://github.com/ruslo/weather
