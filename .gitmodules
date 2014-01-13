@@ -271,3 +271,6 @@
 [submodule "ruslo/weather"]
   path = ruslo/weather
   url = https://github.com/ruslo/weather
+[submodule "llvm/clang-tools-extra"]
+	path = llvm/clang-tools-extra
+	url = http://llvm.org/git/clang-tools-extra
