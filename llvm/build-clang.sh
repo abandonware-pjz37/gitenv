@@ -38,3 +38,7 @@ cmake -Hllvm -B_build_clang -DCMAKE_VERBOSE_MAKEFILE=ON \
     -DCMAKE_INSTALL_PREFIX="`pwd`/_install" -DCMAKE_BUILD_TYPE=Release
 
 cmake --build _build_clang --target install
+
+x=`find "${GITENV_ROOT}/llvm/_install" -type f -name "libclang_rt.asan_osx_dynamic.dylib"`
+
+install_name_tool "${x}" -id "${x}"
