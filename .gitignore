@@ -41,3 +41,7 @@ nosetests.xml
 # temp
 */_install
 */_builds
+
+# hunter packages
+hunter/Base
+hunter/Download
