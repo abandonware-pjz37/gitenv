@@ -292,3 +292,6 @@
 [submodule "ruslo/int-dec-format-tests"]
 	path = ruslo/int-dec-format-tests
 	url = https://github.com/ruslo/int-dec-format-tests
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl
