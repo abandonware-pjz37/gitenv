@@ -43,7 +43,7 @@ then
     export PATH="${GITENV_ROOT}/llvm/_install/bin":${PATH}
   fi
 
-  asan="${GITENV_ROOT}/llvm/compiler-rt/lib/asan/scripts/"
+  asan="${GITENV_ROOT}/llvm/compiler-rt/lib/asan/scripts"
   if [ -r "${asan}/asan_symbolize.py" ];
   then
     echo "[gitenv] add '${asan}' directory to PATH"
