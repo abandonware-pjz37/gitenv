@@ -295,3 +295,9 @@
 [submodule "openssl"]
 	path = openssl
 	url = https://github.com/openssl/openssl
+[submodule "forexample/test-ios-universal"]
+	path = forexample/test-ios-universal
+	url = https://github.com/forexample/test-ios-universal
+[submodule "forexample/package-example"]
+	path = forexample/package-example
+	url = https://github.com/forexample/package-example
