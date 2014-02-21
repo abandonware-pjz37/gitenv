@@ -301,3 +301,6 @@
 [submodule "forexample/package-example"]
 	path = forexample/package-example
 	url = https://github.com/forexample/package-example
+[submodule "asio"]
+	path = asio
+	url = https://github.com/chriskohlhoff/asio
