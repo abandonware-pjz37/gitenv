@@ -37,3 +37,7 @@ nosetests.xml
 
 # macos
 .DS_Store
+
+# temp
+*/_install
+*/_builds
