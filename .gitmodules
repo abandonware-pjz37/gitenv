@@ -274,3 +274,21 @@
 [submodule "llvm/clang-tools-extra"]
   path = llvm/clang-tools-extra
   url = http://llvm.org/git/clang-tools-extra
+[submodule "curlpp"]
+	path = curlpp
+	url = https://github.com/ruslo/curlpp
+[submodule "curl"]
+	path = curl
+	url = https://github.com/bagder/curl
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib
+[submodule "ruslo/intsizeof"]
+	path = ruslo/intsizeof
+	url = https://github.com/ruslo/intsizeof
+[submodule "igloo"]
+	path = igloo
+	url = https://github.com/joakimkarlsson/igloo
+[submodule "ruslo/int-dec-format-tests"]
+	path = ruslo/int-dec-format-tests
+	url = https://github.com/ruslo/int-dec-format-tests
