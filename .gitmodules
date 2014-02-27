@@ -275,35 +275,35 @@
   path = llvm/clang-tools-extra
   url = http://llvm.org/git/clang-tools-extra
 [submodule "curlpp"]
-	path = curlpp
-	url = https://github.com/ruslo/curlpp
+  path = curlpp
+  url = https://github.com/ruslo/curlpp
 [submodule "curl"]
-	path = curl
-	url = https://github.com/bagder/curl
+  path = curl
+  url = https://github.com/bagder/curl
 [submodule "zlib"]
-	path = zlib
-	url = https://github.com/madler/zlib
+  path = zlib
+  url = https://github.com/madler/zlib
 [submodule "ruslo/intsizeof"]
-	path = ruslo/intsizeof
-	url = https://github.com/ruslo/intsizeof
+  path = ruslo/intsizeof
+  url = https://github.com/ruslo/intsizeof
 [submodule "igloo"]
-	path = igloo
-	url = https://github.com/joakimkarlsson/igloo
+  path = igloo
+  url = https://github.com/joakimkarlsson/igloo
 [submodule "ruslo/int-dec-format-tests"]
-	path = ruslo/int-dec-format-tests
-	url = https://github.com/ruslo/int-dec-format-tests
+  path = ruslo/int-dec-format-tests
+  url = https://github.com/ruslo/int-dec-format-tests
 [submodule "openssl"]
-	path = openssl
-	url = https://github.com/openssl/openssl
+  path = openssl
+  url = https://github.com/openssl/openssl
 [submodule "forexample/test-ios-universal"]
-	path = forexample/test-ios-universal
-	url = https://github.com/forexample/test-ios-universal
+  path = forexample/test-ios-universal
+  url = https://github.com/forexample/test-ios-universal
 [submodule "forexample/package-example"]
-	path = forexample/package-example
-	url = https://github.com/forexample/package-example
+  path = forexample/package-example
+  url = https://github.com/forexample/package-example
 [submodule "asio"]
-	path = asio
-	url = https://github.com/chriskohlhoff/asio
+  path = asio
+  url = https://github.com/chriskohlhoff/asio
 [submodule "urdl"]
-	path = urdl
-	url = https://github.com/chriskohlhoff/urdl
+  path = urdl
+  url = https://github.com/chriskohlhoff/urdl
