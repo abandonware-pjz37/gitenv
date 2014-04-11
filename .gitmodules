@@ -137,8 +137,8 @@
   path = boost/property_tree
   url = http://github.com/boostorg/property_tree
 [submodule "boost/predef"]
-	path = boost/predef
-	url = http://github.com/boostorg/predef
+  path = boost/predef
+  url = http://github.com/boostorg/predef
 [submodule "boost/phoenix"]
   path = boost/phoenix
   url = http://github.com/boostorg/phoenix
