@@ -163,6 +163,9 @@
 [submodule "boost/smart_ptr"]
   path = boost/smart_ptr
   url = http://github.com/boostorg/smart_ptr
+[submodule "boost/spirit"]
+  path = boost/spirit
+  url = https://github.com/boostorg/spirit
 [submodule "boost/static_assert"]
   path = boost/static_assert
   url = http://github.com/boostorg/static_assert
