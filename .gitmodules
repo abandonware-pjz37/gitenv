@@ -169,9 +169,6 @@
 [submodule "boost/system"]
   path = boost/system
   url = http://github.com/boostorg/system
-[submodule "boost/spirit"]
-  path = boost/spirit
-  url = http://github.com/boostorg/spirit
 [submodule "boost/thread"]
   path = boost/thread
   url = http://github.com/boostorg/thread
