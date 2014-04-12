@@ -130,15 +130,15 @@
 [submodule "boost/parameter"]
   path = boost/parameter
   url = http://github.com/boostorg/parameter
-[submodule "boost/proto"]
-  path = boost/proto
-  url = http://github.com/boostorg/proto
 [submodule "boost/property_tree"]
   path = boost/property_tree
   url = http://github.com/boostorg/property_tree
 [submodule "boost/predef"]
   path = boost/predef
   url = http://github.com/boostorg/predef
+[submodule "boost/proto"]
+  path = boost/proto
+  url = http://github.com/boostorg/proto
 [submodule "boost/phoenix"]
   path = boost/phoenix
   url = http://github.com/boostorg/phoenix
@@ -307,3 +307,6 @@
 [submodule "urdl"]
   path = urdl
   url = https://github.com/chriskohlhoff/urdl
+[submodule "xvim"]
+  path = xvim
+  url = https://github.com/JugglerShu/XVim
