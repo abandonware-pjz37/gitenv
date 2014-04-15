@@ -244,12 +244,15 @@
 [submodule "uri"]
   path = uri
   url = http://github.com/cpp-netlib/uri
-[submodule "configs"]
-  path = configs
-  url = https://github.com/ruslo/configs
 [submodule "git"]
   path = git
   url = https://github.com/git/git
+[submodule "gate"]
+  path = gate
+  url = https://github.com/hunter-packages/gate
+[submodule "configs"]
+  path = configs
+  url = https://github.com/ruslo/configs
 [submodule "sugar"]
   path = sugar
   url = https://github.com/ruslo/sugar
@@ -259,39 +262,39 @@
 [submodule "polly"]
   path = polly
   url = https://github.com/ruslo/polly
-[submodule "gate"]
-  path = gate
-  url = https://github.com/hunter-packages/gate
 [submodule "hunter/Source"]
   path = hunter/Source
   url = https://github.com/ruslo/hunter
-[submodule "cmake"]
-  path = cmake
-  url = https://github.com/Kitware/CMake
-[submodule "ruslo/weather"]
-  path = ruslo/weather
-  url = https://github.com/ruslo/weather
-[submodule "llvm/clang-tools-extra"]
-  path = llvm/clang-tools-extra
-  url = http://llvm.org/git/clang-tools-extra
 [submodule "curlpp"]
   path = curlpp
   url = https://github.com/ruslo/curlpp
+[submodule "ruslo/weather"]
+  path = ruslo/weather
+  url = https://github.com/ruslo/weather
+[submodule "ruslo/intsizeof"]
+  path = ruslo/intsizeof
+  url = https://github.com/ruslo/intsizeof
+[submodule "ruslo/int-dec-format-tests"]
+  path = ruslo/int-dec-format-tests
+  url = https://github.com/ruslo/int-dec-format-tests
+[submodule "ruslo/sober"]
+  path = ruslo/sober
+  url = http://github.com/ruslo/sober
+[submodule "cmake"]
+  path = cmake
+  url = https://github.com/Kitware/CMake
+[submodule "llvm/clang-tools-extra"]
+  path = llvm/clang-tools-extra
+  url = http://llvm.org/git/clang-tools-extra
 [submodule "curl"]
   path = curl
   url = https://github.com/bagder/curl
 [submodule "zlib"]
   path = zlib
   url = https://github.com/madler/zlib
-[submodule "ruslo/intsizeof"]
-  path = ruslo/intsizeof
-  url = https://github.com/ruslo/intsizeof
 [submodule "igloo"]
   path = igloo
   url = https://github.com/joakimkarlsson/igloo
-[submodule "ruslo/int-dec-format-tests"]
-  path = ruslo/int-dec-format-tests
-  url = https://github.com/ruslo/int-dec-format-tests
 [submodule "openssl"]
   path = openssl
   url = https://github.com/openssl/openssl
