@@ -313,3 +313,6 @@
 [submodule "xvim"]
   path = xvim
   url = https://github.com/JugglerShu/XVim
+[submodule "ruslo/leathers"]
+  path = ruslo/leathers
+  url = http://github.com/ruslo/leathers
