@@ -41,4 +41,7 @@ cmake --build _build_clang --target install
 
 x=`find "${GITENV_ROOT}/llvm/_install" -type f -name "libclang_rt.asan_osx_dynamic.dylib"`
 
-install_name_tool "${x}" -id "${x}"
+if [ -f "${x}" ];
+then
+  install_name_tool "${x}" -id "${x}"
+fi
