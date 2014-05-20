@@ -316,3 +316,6 @@
 [submodule "ruslo/leathers"]
   path = ruslo/leathers
   url = http://github.com/ruslo/leathers
+[submodule "json/json_spirit"]
+  path = json/json_spirit
+  url = https://github.com/cierelabs/json_spirit
