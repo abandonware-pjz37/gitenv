@@ -70,9 +70,6 @@
 [submodule "boost/functional"]
   path = boost/functional
   url = http://github.com/boostorg/functional
-[submodule "boost/fusion"]
-  path = boost/fusion
-  url = http://github.com/boostorg/fusion
 [submodule "boost/foreach"]
   path = boost/foreach
   url = http://github.com/boostorg/foreach
@@ -163,9 +160,6 @@
 [submodule "boost/smart_ptr"]
   path = boost/smart_ptr
   url = http://github.com/boostorg/smart_ptr
-[submodule "boost/spirit"]
-  path = boost/spirit
-  url = https://github.com/boostorg/spirit
 [submodule "boost/static_assert"]
   path = boost/static_assert
   url = http://github.com/boostorg/static_assert
