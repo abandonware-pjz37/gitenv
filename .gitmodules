@@ -313,3 +313,9 @@
 [submodule "json/json_spirit"]
   path = json/json_spirit
   url = https://github.com/cierelabs/json_spirit
+[submodule "boost/spirit"]
+  path = boost/spirit
+  url = https://github.com/boostorg/spirit
+[submodule "boost/fusion"]
+  path = boost/fusion
+  url = https://github.com/boostorg/fusion
