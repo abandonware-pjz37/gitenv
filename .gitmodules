@@ -316,3 +316,6 @@
 [submodule "boost/fusion"]
   path = boost/fusion
   url = https://github.com/boostorg/fusion
+[submodule "ruslo/sugar"]
+  path = ruslo/sugar
+  url = https://github.com/ruslo/sugar
