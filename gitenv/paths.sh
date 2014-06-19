@@ -14,9 +14,9 @@ then
     source "${GITENV_ROOT}/git/contrib/completion/git-completion.bash"
   fi
 
-  if [ -r "${GITENV_ROOT}/sugar/cmake/Sugar" ];
+  if [ -r "${GITENV_ROOT}/ruslo/sugar/cmake/Sugar" ];
   then
-    export SUGAR_ROOT="${GITENV_ROOT}/sugar"
+    export SUGAR_ROOT="${GITENV_ROOT}/ruslo/sugar"
     echo "[gitenv] set SUGAR_ROOT to '${SUGAR_ROOT}'"
     if [ -r "${SUGAR_ROOT}/python" ];
     then
@@ -25,9 +25,9 @@ then
     fi
   fi
 
-  if [ -r "${GITENV_ROOT}/polly/utilities/polly_common.cmake" ];
+  if [ -r "${GITENV_ROOT}/ruslo/polly/utilities/polly_common.cmake" ];
   then
-    export POLLY_ROOT="${GITENV_ROOT}/polly"
+    export POLLY_ROOT="${GITENV_ROOT}/ruslo/polly"
     echo "[gitenv] set POLLY_ROOT to '${POLLY_ROOT}'"
 
     echo "[gitenv] add '${POLLY_ROOT}/bin' directory to PATH"
