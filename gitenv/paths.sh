@@ -29,6 +29,9 @@ then
   then
     export POLLY_ROOT="${GITENV_ROOT}/polly"
     echo "[gitenv] set POLLY_ROOT to '${POLLY_ROOT}'"
+
+    echo "[gitenv] add '${POLLY_ROOT}/bin' directory to PATH"
+    export PATH="${POLLY_ROOT}/bin":${PATH}
   fi
 
   if [ -r "${GITENV_ROOT}/hunter/Source/cmake/Hunter" ];
