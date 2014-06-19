@@ -91,9 +91,6 @@
 [submodule "boost/iterator"]
   path = boost/iterator
   url = http://github.com/boostorg/iterator
-[submodule "boost/log"]
-  path = boost/log
-  url = http://github.com/boostorg/log
 [submodule "boost/logic"]
   path = boost/logic
   url = http://github.com/boostorg/logic
@@ -319,3 +316,6 @@
 [submodule "ruslo/polly"]
   path = ruslo/polly
   url = https://github.com/ruslo/polly
+[submodule "boost/log"]
+  path = boost/log
+  url = https://github.com/boostorg/log
