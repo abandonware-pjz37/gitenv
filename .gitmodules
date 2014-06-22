@@ -331,3 +331,6 @@
 [submodule "travis-ci-tester/toolchain-table"]
   path = travis-ci-tester/toolchain-table
   url = https://github.com/travis-ci-tester/toolchain-table
+[submodule "travis-ci-tester/travis-test-mac-clang-address-sanitizer"]
+  path = travis-ci-tester/travis-test-mac-clang-address-sanitizer
+  url = https://github.com/travis-ci-tester/travis-test-mac-clang-address-sanitizer
