@@ -334,3 +334,6 @@
 [submodule "travis-ci-tester/travis-test-mac-clang-address-sanitizer"]
   path = travis-ci-tester/travis-test-mac-clang-address-sanitizer
   url = https://github.com/travis-ci-tester/travis-test-mac-clang-address-sanitizer
+[submodule "travis-ci-tester/travis-test-linux-clang-memory-sanitizer"]
+  path = travis-ci-tester/travis-test-linux-clang-memory-sanitizer
+  url = https://github.com/travis-ci-tester/travis-test-linux-clang-memory-sanitizer
