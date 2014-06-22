@@ -322,3 +322,6 @@
 [submodule "forexample/hunter-simple"]
   path = forexample/hunter-simple
   url = https://github.com/forexample/hunter-simple
+[submodule "travis-ci-tester/travis-test-mac-gcc"]
+  path = travis-ci-tester/travis-test-mac-gcc
+  url = http://github.com/travis-ci-tester/travis-test-mac-gcc
