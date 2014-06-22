@@ -319,3 +319,6 @@
 [submodule "boost/log"]
   path = boost/log
   url = https://github.com/boostorg/log
+[submodule "forexample/hunter-simple"]
+  path = forexample/hunter-simple
+  url = https://github.com/forexample/hunter-simple
