@@ -328,3 +328,6 @@
 [submodule "travis-ci-tester/travis-test-mac-clang-libstdcxx"]
   path = travis-ci-tester/travis-test-mac-clang-libstdcxx
   url = https://github.com/travis-ci-tester/travis-test-mac-clang-libstdcxx
+[submodule "travis-ci-tester/toolchain-table"]
+  path = travis-ci-tester/toolchain-table
+  url = https://github.com/travis-ci-tester/toolchain-table
