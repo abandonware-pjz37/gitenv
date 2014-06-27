@@ -337,3 +337,6 @@
 [submodule "travis-ci-tester/travis-test-linux-clang-memory-sanitizer"]
   path = travis-ci-tester/travis-test-linux-clang-memory-sanitizer
   url = https://github.com/travis-ci-tester/travis-test-linux-clang-memory-sanitizer
+[submodule "forexample/testapp"]
+  path = forexample/testapp
+  url = https://github.com/forexample/testapp
