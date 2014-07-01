@@ -10,17 +10,17 @@ if [ -n "${GITENV_ROOT}" ];
 then
   if [ -r "${GITENV_ROOT}/git/contrib/completion/git-completion.bash" ];
   then
-    echo "[gitenv] add git-completion.bash"
+    [ -t 0 ] && echo "[gitenv] add git-completion.bash"
     source "${GITENV_ROOT}/git/contrib/completion/git-completion.bash"
   fi
 
   if [ -r "${GITENV_ROOT}/ruslo/sugar/cmake/Sugar" ];
   then
     export SUGAR_ROOT="${GITENV_ROOT}/ruslo/sugar"
-    echo "[gitenv] set SUGAR_ROOT to '${SUGAR_ROOT}'"
+    [ -t 0 ] && echo "[gitenv] set SUGAR_ROOT to '${SUGAR_ROOT}'"
     if [ -r "${SUGAR_ROOT}/python" ];
     then
-      echo "[gitenv] add '${SUGAR_ROOT}/python' directory to PATH"
+      [ -t 0 ] && echo "[gitenv] add '${SUGAR_ROOT}/python' directory to PATH"
       export PATH="${SUGAR_ROOT}/python":${PATH}
     fi
   fi
@@ -28,35 +28,34 @@ then
   if [ -r "${GITENV_ROOT}/ruslo/polly/utilities/polly_common.cmake" ];
   then
     export POLLY_ROOT="${GITENV_ROOT}/ruslo/polly"
-    echo "[gitenv] set POLLY_ROOT to '${POLLY_ROOT}'"
-
-    echo "[gitenv] add '${POLLY_ROOT}/bin' directory to PATH"
+    [ -t 0 ] && echo "[gitenv] set POLLY_ROOT to '${POLLY_ROOT}'"
+    [ -t 0 ] && echo "[gitenv] add '${POLLY_ROOT}/bin' directory to PATH"
     export PATH="${POLLY_ROOT}/bin":${PATH}
   fi
 
   if [ -r "${GITENV_ROOT}/hunter/Source/cmake/Hunter" ];
   then
     export HUNTER_ROOT="${GITENV_ROOT}/hunter"
-    echo "[gitenv] set HUNTER_ROOT to '${HUNTER_ROOT}'"
+    [ -t 0 ] && echo "[gitenv] set HUNTER_ROOT to '${HUNTER_ROOT}'"
   fi
 
   if [ -r "${GITENV_ROOT}/llvm/_install/bin/clang" ];
   then
-    echo "[gitenv] add '${GITENV_ROOT}/llvm/_install/bin' directory to PATH"
+    [ -t 0 ] && echo "[gitenv] add '${GITENV_ROOT}/llvm/_install/bin' directory to PATH"
     export PATH="${GITENV_ROOT}/llvm/_install/bin":${PATH}
   fi
 
   asan="${GITENV_ROOT}/llvm/compiler-rt/lib/asan/scripts"
   if [ -r "${asan}/asan_symbolize.py" ];
   then
-    echo "[gitenv] add '${asan}' directory to PATH"
+    [ -t 0 ] && echo "[gitenv] add '${asan}' directory to PATH"
     export PATH="${asan}":${PATH}
   fi
 
   cmake_path="${GITENV_ROOT}/cmake/_install/bin"
   if [ -r "${cmake_path}/cmake" ];
   then
-    echo "[gitenv] add '${cmake_path}' directory to PATH"
+    [ -t 0 ] && echo "[gitenv] add '${cmake_path}' directory to PATH"
     export PATH="${cmake_path}":${PATH}
   fi
 fi
