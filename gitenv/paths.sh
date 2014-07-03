@@ -52,7 +52,7 @@ then
     export PATH="${asan}":${PATH}
   fi
 
-  cmake_path="${GITENV_ROOT}/cmake/_install/bin"
+  cmake_path="${GITENV_ROOT}/cmake/_install/default/bin"
   if [ -r "${cmake_path}/cmake" ];
   then
     [ -t 0 ] && echo "[gitenv] add '${cmake_path}' directory to PATH"
