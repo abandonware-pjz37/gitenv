@@ -33,9 +33,9 @@ then
     export PATH="${POLLY_ROOT}/bin":${PATH}
   fi
 
-  if [ -r "${GITENV_ROOT}/hunter/Source/cmake/Hunter" ];
+  if [ -r "${GITENV_ROOT}/ruslo/hunter/cmake/Hunter" ];
   then
-    export HUNTER_ROOT="${GITENV_ROOT}/hunter"
+    export HUNTER_ROOT="${GITENV_ROOT}/ruslo/hunter"
     [ -t 0 ] && echo "[gitenv] set HUNTER_ROOT to '${HUNTER_ROOT}'"
   fi
 
