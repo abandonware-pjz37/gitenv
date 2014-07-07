@@ -247,9 +247,6 @@
 [submodule "json/rapidjson"]
   path = json/rapidjson
   url = https://github.com/ruslo/rapidjson
-[submodule "hunter/Source"]
-  path = hunter/Source
-  url = https://github.com/ruslo/hunter
 [submodule "curlpp"]
   path = curlpp
   url = https://github.com/ruslo/curlpp
