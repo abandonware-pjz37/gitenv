@@ -335,8 +335,8 @@
   path = forexample/testapp
   url = https://github.com/forexample/testapp
 [submodule "ruslo/hunter"]
-	path = ruslo/hunter
-	url = https://github.com/ruslo/hunter
+  path = ruslo/hunter
+  url = https://github.com/ruslo/hunter
 [submodule "hunter-packages/gate"]
-	path = hunter-packages/gate
-	url = https://github.com/hunter-packages/gate
+  path = hunter-packages/gate
+  url = https://github.com/hunter-packages/gate
