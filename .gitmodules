@@ -340,3 +340,6 @@
 [submodule "hunter-packages/gate"]
   path = hunter-packages/gate
   url = https://github.com/hunter-packages/gate
+[submodule "forexample/example-A"]
+  path = forexample/example-A
+  url = https://github.com/forexample/example-A
