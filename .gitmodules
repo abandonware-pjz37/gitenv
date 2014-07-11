@@ -343,3 +343,6 @@
 [submodule "forexample/example-A"]
   path = forexample/example-A
   url = https://github.com/forexample/example-A
+[submodule "forexample/cmake-lock-test"]
+  path = forexample/cmake-lock-test
+  url = https://github.com/forexample/cmake-lock-test
