@@ -346,3 +346,6 @@
 [submodule "forexample/cmake-lock-test"]
   path = forexample/cmake-lock-test
   url = https://github.com/forexample/cmake-lock-test
+[submodule "hunter-packages/uri"]
+  path = hunter-packages/uri
+  url = https://github.com/hunter-packages/uri
