@@ -349,3 +349,6 @@
 [submodule "hunter-packages/uri"]
   path = hunter-packages/uri
   url = https://github.com/hunter-packages/uri
+[submodule "hunter-packages/json_spirit"]
+  path = hunter-packages/json_spirit
+  url = https://github.com/hunter-packages/json_spirit
