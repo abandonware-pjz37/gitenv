@@ -346,3 +346,12 @@
 [submodule "hunter-packages/boost"]
 	path = hunter-packages/boost
 	url = https://github.com/hunter-packages/boost
+[submodule "forexample/cmake-lock-test"]
+  path = forexample/cmake-lock-test
+  url = https://github.com/forexample/cmake-lock-test
+[submodule "hunter-packages/uri"]
+  path = hunter-packages/uri
+  url = https://github.com/hunter-packages/uri
+[submodule "hunter-packages/json_spirit"]
+  path = hunter-packages/json_spirit
+  url = https://github.com/hunter-packages/json_spirit
