@@ -343,3 +343,6 @@
 [submodule "forexample/example-A"]
   path = forexample/example-A
   url = https://github.com/forexample/example-A
+[submodule "hunter-packages/boost"]
+	path = hunter-packages/boost
+	url = https://github.com/hunter-packages/boost
