@@ -358,3 +358,6 @@
 [submodule "boost/mpi"]
   path = boost/mpi
   url = https://github.com/boostorg/mpi
+[submodule "boost/program_options"]
+  path = boost/program_options
+  url = https://github.com/boostorg/program_options
