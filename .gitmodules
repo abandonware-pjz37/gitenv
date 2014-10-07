@@ -361,3 +361,6 @@
 [submodule "boost/program_options"]
   path = boost/program_options
   url = https://github.com/boostorg/program_options
+[submodule "forexample/generate-known"]
+  path = forexample/generate-known
+  url = https://github.com/forexample/generate-known
