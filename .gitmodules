@@ -364,3 +364,6 @@
 [submodule "forexample/generate-known"]
   path = forexample/generate-known
   url = https://github.com/forexample/generate-known
+[submodule "forexample/test-ios-fix"]
+  path = forexample/test-ios-fix
+  url = https://github.com/forexample/test-ios-fix
