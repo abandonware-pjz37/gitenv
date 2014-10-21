@@ -32,10 +32,8 @@ then
 
   if [ -r "${GITENV_ROOT}/ruslo/polly/utilities/polly_common.cmake" ];
   then
-    export POLLY_ROOT="${GITENV_ROOT}/ruslo/polly"
-    [ "${GITENV_VERBOSE}" == "1" ] && echo "[gitenv] set POLLY_ROOT to '${POLLY_ROOT}'"
-    [ "${GITENV_VERBOSE}" == "1" ] && echo "[gitenv] add '${POLLY_ROOT}/bin' directory to PATH"
-    export PATH="${POLLY_ROOT}/bin":${PATH}
+    [ "${GITENV_VERBOSE}" == "1" ] && echo "[gitenv] add '${GITENV_ROOT}/ruslo/polly/bin' directory to PATH"
+    export PATH="${GITENV_ROOT}/ruslo/polly/bin":${PATH}
   fi
 
   if [ -r "${GITENV_ROOT}/ruslo/hunter/cmake/Hunter" ];
