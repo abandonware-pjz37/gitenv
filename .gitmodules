@@ -367,3 +367,6 @@
 [submodule "forexample/test-ios-fix"]
   path = forexample/test-ios-fix
   url = https://github.com/forexample/test-ios-fix
+[submodule "forexample/file-lock-test"]
+  path = forexample/file-lock-test
+  url = https://github.com/forexample/file-lock-test
