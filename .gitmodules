@@ -370,3 +370,6 @@
 [submodule "forexample/file-lock-test"]
   path = forexample/file-lock-test
   url = https://github.com/forexample/file-lock-test
+[submodule "hunter-packages/clapack"]
+  path = hunter-packages/clapack
+  url = https://github.com/hunter-packages/clapack
