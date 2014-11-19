@@ -373,3 +373,6 @@
 [submodule "hunter-packages/clapack"]
   path = hunter-packages/clapack
   url = https://github.com/hunter-packages/clapack
+[submodule "hunter-packages/tiff"]
+  path = hunter-packages/tiff
+  url = https://github.com/hunter-packages/tiff
