@@ -376,3 +376,6 @@
 [submodule "hunter-packages/tiff"]
   path = hunter-packages/tiff
   url = https://github.com/hunter-packages/tiff
+[submodule "hunter-packages/zlib"]
+  path = hunter-packages/zlib
+  url = https://github.com/hunter-packages/zlib
