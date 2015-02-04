@@ -379,3 +379,9 @@
 [submodule "hunter-packages/zlib"]
   path = hunter-packages/zlib
   url = https://github.com/hunter-packages/zlib
+[submodule "hunter-packages/libssh2"]
+  path = hunter-packages/libssh2
+  url = https://github.com/hunter-packages/libssh2
+[submodule "forexample/qt-cmake"]
+  path = forexample/qt-cmake
+  url = https://github.com/forexample/qt-cmake
