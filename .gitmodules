@@ -385,3 +385,6 @@
 [submodule "forexample/qt-cmake"]
   path = forexample/qt-cmake
   url = https://github.com/forexample/qt-cmake
+[submodule "forexample/r-cmake"]
+  path = forexample/r-cmake
+  url = https://github.com/forexample/r-cmake
