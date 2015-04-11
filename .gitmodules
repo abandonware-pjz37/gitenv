@@ -388,3 +388,6 @@
 [submodule "forexample/r-cmake"]
   path = forexample/r-cmake
   url = https://github.com/forexample/r-cmake
+[submodule "hunter-packages/gpuimage"]
+  path = hunter-packages/gpuimage
+  url = https://github.com/hunter-packages/GPUImage
