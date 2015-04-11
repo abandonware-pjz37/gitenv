@@ -391,3 +391,6 @@
 [submodule "hunter-packages/gpuimage"]
   path = hunter-packages/gpuimage
   url = https://github.com/hunter-packages/GPUImage
+[submodule "hunter-packages/opencv"]
+  path = hunter-packages/opencv
+  url = https://github.com/hunter-packages/opencv
