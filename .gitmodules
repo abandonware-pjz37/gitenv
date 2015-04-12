@@ -388,3 +388,6 @@
 [submodule "forexample/r-cmake"]
   path = forexample/r-cmake
   url = https://github.com/forexample/r-cmake
+[submodule "hunter-packages/libpng"]
+  path = hunter-packages/libpng
+  url = https://github.com/hunter-packages/libpng
