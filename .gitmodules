@@ -397,3 +397,6 @@
 [submodule "hunter-packages/libpng"]
   path = hunter-packages/libpng
   url = https://github.com/hunter-packages/libpng
+[submodule "hunter-packages/washer"]
+  path = hunter-packages/washer
+  url = https://github.com/hunter-packages/washer
