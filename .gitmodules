@@ -400,3 +400,9 @@
 [submodule "hunter-packages/washer"]
   path = hunter-packages/washer
   url = https://github.com/hunter-packages/washer
+[submodule "hunter-packages/csv-parser-cplusplus"]
+  path = hunter-packages/csv-parser-cplusplus
+  url = https://github.com/hunter-packages/csv-parser-cplusplus
+[submodule "hunter-packages/cvmatio"]
+  path = hunter-packages/cvmatio
+  url = https://github.com/hunter-packages/cvmatio
