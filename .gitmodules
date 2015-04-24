@@ -406,3 +406,6 @@
 [submodule "hunter-packages/cvmatio"]
   path = hunter-packages/cvmatio
   url = https://github.com/hunter-packages/cvmatio
+[submodule "hunter-packages/dlib"]
+  path = hunter-packages/dlib
+  url = https://github.com/davisking/dlib
