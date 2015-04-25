@@ -409,3 +409,6 @@
 [submodule "hunter-packages/dlib"]
   path = hunter-packages/dlib
   url = https://github.com/davisking/dlib
+[submodule "ruslo/gpuopencv"]
+  path = ruslo/gpuopencv
+  url = https://github.com/ruslo/GPUOpenCV
