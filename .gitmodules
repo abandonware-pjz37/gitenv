@@ -406,3 +406,12 @@
 [submodule "hunter-packages/cvmatio"]
   path = hunter-packages/cvmatio
   url = https://github.com/hunter-packages/cvmatio
+[submodule "hunter-packages/wxWidgets"]
+  path = hunter-packages/wxWidgets
+  url = https://github.com/alamaison/wxWidgets
+[submodule "hunter-packages/winsparkle"]
+  path = hunter-packages/winsparkle
+  url = https://github.com/alamaison/winsparkle
+[submodule "hunter-packages/ccv"]
+  path = hunter-packages/ccv
+  url = https://github.com/hunter-packages/ccv
