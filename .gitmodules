@@ -415,3 +415,6 @@
 [submodule "hunter-packages/ccv"]
   path = hunter-packages/ccv
   url = https://github.com/hunter-packages/ccv
+[submodule "hunter-packages/dlib"]
+  path = hunter-packages/dlib
+  url = https://github.com/davisking/dlib
