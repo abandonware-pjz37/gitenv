@@ -418,3 +418,9 @@
 [submodule "hunter-packages/dlib"]
   path = hunter-packages/dlib
   url = https://github.com/davisking/dlib
+[submodule "hunter-packages/bzip2"]
+  path = hunter-packages/bzip2
+  url = https://github.com/hunter-packages/bzip2-cmake-win32
+[submodule "hunter-packages/gtest"]
+  path = hunter-packages/gtest
+  url = https://github.com/hunter-packages/gtest
