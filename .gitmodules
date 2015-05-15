@@ -406,9 +406,24 @@
 [submodule "hunter-packages/cvmatio"]
   path = hunter-packages/cvmatio
   url = https://github.com/hunter-packages/cvmatio
+[submodule "hunter-packages/wxWidgets"]
+  path = hunter-packages/wxWidgets
+  url = https://github.com/alamaison/wxWidgets
+[submodule "hunter-packages/winsparkle"]
+  path = hunter-packages/winsparkle
+  url = https://github.com/alamaison/winsparkle
+[submodule "hunter-packages/ccv"]
+  path = hunter-packages/ccv
+  url = https://github.com/hunter-packages/ccv
 [submodule "hunter-packages/dlib"]
   path = hunter-packages/dlib
   url = https://github.com/davisking/dlib
 [submodule "ruslo/gpuopencv"]
   path = ruslo/gpuopencv
   url = https://github.com/ruslo/GPUOpenCV
+[submodule "hunter-packages/bzip2"]
+  path = hunter-packages/bzip2
+  url = https://github.com/hunter-packages/bzip2-cmake-win32
+[submodule "hunter-packages/gtest"]
+  path = hunter-packages/gtest
+  url = https://github.com/hunter-packages/gtest
