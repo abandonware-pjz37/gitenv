@@ -427,3 +427,6 @@
 [submodule "hunter-packages/gtest"]
   path = hunter-packages/gtest
   url = https://github.com/hunter-packages/gtest
+[submodule "hunter-packages/android-sdk"]
+	path = hunter-packages/android-sdk
+	url = https://github.com/hunter-packages/android-sdk
