@@ -430,3 +430,6 @@
 [submodule "hunter-packages/android-sdk"]
 	path = hunter-packages/android-sdk
 	url = https://github.com/hunter-packages/android-sdk
+[submodule "android-cmake"]
+	path = android-cmake
+	url = https://github.com/taka-no-me/android-cmake
