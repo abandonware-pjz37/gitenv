@@ -436,3 +436,6 @@
 [submodule "hunter-packages/android-apk"]
   path = hunter-packages/android-apk
   url = https://github.com/hunter-packages/android-apk
+[submodule "forexample/android-cmake"]
+  path = forexample/android-cmake
+  url = https://github.com/forexample/android-cmake
