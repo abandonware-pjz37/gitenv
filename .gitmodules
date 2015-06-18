@@ -439,3 +439,6 @@
 [submodule "forexample/android-cmake"]
   path = forexample/android-cmake
   url = https://github.com/forexample/android-cmake
+[submodule "forexample/cmake-osx-framework"]
+  path = forexample/cmake-osx-framework
+  url = https://github.com/forexample/cmake-osx-framework
