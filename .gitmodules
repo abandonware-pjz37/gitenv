@@ -442,3 +442,6 @@
 [submodule "forexample/cmake-osx-framework"]
   path = forexample/cmake-osx-framework
   url = https://github.com/forexample/cmake-osx-framework
+[submodule "forexample/ios-dynamic-framework"]
+  path = forexample/ios-dynamic-framework
+  url = https://github.com/forexample/ios-dynamic-framework
