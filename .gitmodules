@@ -445,3 +445,9 @@
 [submodule "forexample/ios-dynamic-framework"]
   path = forexample/ios-dynamic-framework
   url = https://github.com/forexample/ios-dynamic-framework
+[submodule "forexample/ios-cmake-in-native-xcode"]
+  path = forexample/ios-cmake-in-native-xcode
+  url = https://github.com/forexample/ios-cmake-in-native-xcode
+[submodule "forexample/qt-ios-examples"]
+  path = forexample/qt-ios-examples
+  url = https://github.com/forexample/qt-ios-examples
