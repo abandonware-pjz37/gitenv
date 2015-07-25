@@ -454,3 +454,6 @@
 [submodule "hunter-packages/hdf5"]
   path = hunter-packages/hdf5
   url = https://github.com/hunter-packages/hdf5
+[submodule "hunter-packages/qt-android-cmake"]
+  path = hunter-packages/qt-android-cmake
+  url = https://github.com/hunter-packages/qt-android-cmake
