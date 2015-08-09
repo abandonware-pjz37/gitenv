@@ -6,18 +6,12 @@
 This is simply a collection of some git repos. The goal of the project is to have unified
 **layout** of directories with git repos. That is, if you have to clone some of this repos **anyway**, why don't
 have similar struct everytime (every machine) and have some benefits from it:
-* [server][link_server]
 * [bash paths][link_bash_paths] (usage: [configs][link_configs])
-* [cmake paths][link_cmake_paths] (usage: [polly][link_polly])
 
-[link_server]: https://github.com/ruslo/gitenv/wiki/Creating-mirror-server
 [link_bash_paths]: https://github.com/ruslo/gitenv/blob/master/gitenv/paths.sh
-[link_cmake_paths]: https://github.com/ruslo/gitenv/blob/master/gitenv/paths.cmake
 [link_configs]: https://github.com/ruslo/configs/blob/master/unix/bashrc#L134
-[link_polly]: https://github.com/ruslo/polly
 
-*Note*: It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite
-software manager like `apt`, `emerge`, `macports`, ...
+*Note*: It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite software manager like `apt`, `emerge`, `macports`, ...
 
 ## usage
 Copy [gitenv](https://github.com/ruslo/gitenv) repo:
