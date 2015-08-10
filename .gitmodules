@@ -457,3 +457,6 @@
 [submodule "hunter-packages/qt-android-cmake"]
   path = hunter-packages/qt-android-cmake
   url = https://github.com/hunter-packages/qt-android-cmake
+[submodule "forexample/github-binary-release"]
+  path = forexample/github-binary-release
+  url = https://github.com/forexample/github-binary-release
