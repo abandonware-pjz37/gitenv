@@ -460,3 +460,6 @@
 [submodule "forexample/github-binary-release"]
   path = forexample/github-binary-release
   url = https://github.com/forexample/github-binary-release
+[submodule "ruslo/gatherer"]
+	path = ruslo/gatherer
+	url = https://github.com/ruslo/gatherer
