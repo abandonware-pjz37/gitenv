@@ -463,3 +463,6 @@
 [submodule "ruslo/gatherer"]
 	path = ruslo/gatherer
 	url = https://github.com/ruslo/gatherer
+[submodule "ruslo/glog"]
+	path = ruslo/glog
+	url = https://github.com/ruslo/glog
