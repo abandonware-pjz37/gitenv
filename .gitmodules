@@ -466,3 +466,6 @@
 [submodule "ruslo/glog"]
 	path = ruslo/glog
 	url = https://github.com/ruslo/glog
+[submodule "hunter-packages/dbus"]
+	path = hunter-packages/dbus
+	url = https://github.com/hunter-packages/dbus
