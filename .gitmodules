@@ -469,3 +469,9 @@
 [submodule "hunter-packages/dbus"]
 	path = hunter-packages/dbus
 	url = https://github.com/hunter-packages/dbus
+[submodule "ruslo/log4cplus"]
+	path = ruslo/log4cplus
+	url = https://github.com/ruslo/log4cplus
+[submodule "ruslo/ogles_gpgpu"]
+	path = ruslo/ogles_gpgpu
+	url = https://github.com/ruslo/ogles_gpgpu
