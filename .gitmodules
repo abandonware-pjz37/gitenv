@@ -475,3 +475,6 @@
 [submodule "ruslo/ogles_gpgpu"]
 	path = ruslo/ogles_gpgpu
 	url = https://github.com/ruslo/ogles_gpgpu
+[submodule "ruslo/spdlog"]
+	path = ruslo/spdlog
+	url = https://github.com/ruslo/spdlog
