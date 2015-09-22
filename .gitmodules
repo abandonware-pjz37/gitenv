@@ -478,3 +478,6 @@
 [submodule "ruslo/spdlog"]
 	path = ruslo/spdlog
 	url = https://github.com/ruslo/spdlog
+[submodule "hunter-packages/glog"]
+	path = hunter-packages/glog
+	url = https://github.com/google/glog
