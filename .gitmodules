@@ -481,3 +481,6 @@
 [submodule "hunter-packages/glog"]
 	path = hunter-packages/glog
 	url = https://github.com/google/glog
+[submodule "ruslo/json"]
+	path = ruslo/json
+	url = https://github.com/ruslo/json
