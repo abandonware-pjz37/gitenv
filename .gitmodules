@@ -484,3 +484,6 @@
 [submodule "ruslo/json"]
 	path = ruslo/json
 	url = https://github.com/ruslo/json
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/ansible/ansible
