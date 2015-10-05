@@ -487,3 +487,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = https://github.com/ansible/ansible
+[submodule "hunter-packages/qt"]
+	path = hunter-packages/qt
+	url = https://github.com/hunter-packages/qt
