@@ -490,3 +490,6 @@
 [submodule "hunter-packages/qt"]
 	path = hunter-packages/qt
 	url = https://github.com/hunter-packages/qt
+[submodule "forexample/date-resolution-test"]
+	path = forexample/date-resolution-test
+	url = https://github.com/forexample/date-resolution-test
