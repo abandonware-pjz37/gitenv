@@ -461,35 +461,38 @@
   path = forexample/github-binary-release
   url = https://github.com/forexample/github-binary-release
 [submodule "ruslo/gatherer"]
-	path = ruslo/gatherer
-	url = https://github.com/ruslo/gatherer
+  path = ruslo/gatherer
+  url = https://github.com/ruslo/gatherer
 [submodule "ruslo/glog"]
-	path = ruslo/glog
-	url = https://github.com/ruslo/glog
+  path = ruslo/glog
+  url = https://github.com/ruslo/glog
 [submodule "hunter-packages/dbus"]
-	path = hunter-packages/dbus
-	url = https://github.com/hunter-packages/dbus
+  path = hunter-packages/dbus
+  url = https://github.com/hunter-packages/dbus
 [submodule "ruslo/log4cplus"]
-	path = ruslo/log4cplus
-	url = https://github.com/ruslo/log4cplus
+  path = ruslo/log4cplus
+  url = https://github.com/ruslo/log4cplus
 [submodule "ruslo/ogles_gpgpu"]
-	path = ruslo/ogles_gpgpu
-	url = https://github.com/ruslo/ogles_gpgpu
+  path = ruslo/ogles_gpgpu
+  url = https://github.com/ruslo/ogles_gpgpu
 [submodule "ruslo/spdlog"]
-	path = ruslo/spdlog
-	url = https://github.com/ruslo/spdlog
+  path = ruslo/spdlog
+  url = https://github.com/ruslo/spdlog
 [submodule "hunter-packages/glog"]
-	path = hunter-packages/glog
-	url = https://github.com/google/glog
+  path = hunter-packages/glog
+  url = https://github.com/google/glog
 [submodule "ruslo/json"]
-	path = ruslo/json
-	url = https://github.com/ruslo/json
+  path = ruslo/json
+  url = https://github.com/ruslo/json
 [submodule "ansible"]
-	path = ansible
-	url = https://github.com/ansible/ansible
+  path = ansible
+  url = https://github.com/ansible/ansible
 [submodule "hunter-packages/qt"]
-	path = hunter-packages/qt
-	url = https://github.com/hunter-packages/qt
+  path = hunter-packages/qt
+  url = https://github.com/hunter-packages/qt
 [submodule "forexample/date-resolution-test"]
-	path = forexample/date-resolution-test
-	url = https://github.com/forexample/date-resolution-test
+  path = forexample/date-resolution-test
+  url = https://github.com/forexample/date-resolution-test
+[submodule "hunter-packages/QtQmlManager"]
+  path = hunter-packages/QtQmlManager
+  url = https://github.com/hunter-packages/QtQmlManager
