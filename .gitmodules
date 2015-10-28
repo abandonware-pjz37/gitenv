@@ -496,3 +496,6 @@
 [submodule "hunter-packages/QtQmlManager"]
   path = hunter-packages/QtQmlManager
   url = https://github.com/hunter-packages/QtQmlManager
+[submodule "hunter-packages/QtCMakeExtra"]
+  path = hunter-packages/QtCMakeExtra
+  url = https://github.com/hunter-packages/QtCMakeExtra
