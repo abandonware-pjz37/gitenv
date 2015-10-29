@@ -499,3 +499,6 @@
 [submodule "hunter-packages/QtCMakeExtra"]
   path = hunter-packages/QtCMakeExtra
   url = https://github.com/hunter-packages/QtCMakeExtra
+[submodule "oh-my-zsh"]
+  path = oh-my-zsh
+  url = https://github.com/robbyrussell/oh-my-zsh.git
