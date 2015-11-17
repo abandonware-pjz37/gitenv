@@ -502,3 +502,6 @@
 [submodule "oh-my-zsh"]
   path = oh-my-zsh
   url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "hunter-packages/libyuv"]
+  path = hunter-packages/libyuv
+  url = https://github.com/hunter-packages/libyuv
