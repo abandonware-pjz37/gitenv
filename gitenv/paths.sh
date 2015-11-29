@@ -13,10 +13,13 @@ fi
 
 if [ -n "${GITENV_ROOT}" ];
 then
-  if [ -r "${GITENV_ROOT}/git/contrib/completion/git-completion.bash" ];
+  if [ "${SHELL}" = "/bin/bash" ];
   then
-    [ "${GITENV_VERBOSE}" = "1" ] && echo "[gitenv] add git-completion.bash"
-    source "${GITENV_ROOT}/git/contrib/completion/git-completion.bash"
+    if [ -r "${GITENV_ROOT}/git/contrib/completion/git-completion.bash" ];
+    then
+      [ "${GITENV_VERBOSE}" = "1" ] && echo "[gitenv] add git-completion.bash"
+      source "${GITENV_ROOT}/git/contrib/completion/git-completion.bash"
+    fi
   fi
 
   if [ -r "${GITENV_ROOT}/ruslo/sugar/cmake/Sugar" ];
