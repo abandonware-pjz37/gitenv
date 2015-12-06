@@ -505,3 +505,6 @@
 [submodule "hunter-packages/libyuv"]
   path = hunter-packages/libyuv
   url = https://github.com/hunter-packages/libyuv
+[submodule "hunter-packages/lua"]
+  path = hunter-packages/lua
+  url = https://github.com/hunter-packages/lua
