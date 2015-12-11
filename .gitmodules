@@ -508,3 +508,6 @@
 [submodule "hunter-packages/lua"]
   path = hunter-packages/lua
   url = https://github.com/hunter-packages/lua
+[submodule "hunter-packages/json"]
+  path = hunter-packages/json
+  url = https://github.com/hunter-packages/json
