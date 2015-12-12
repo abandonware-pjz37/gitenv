@@ -511,3 +511,6 @@
 [submodule "hunter-packages/json"]
   path = hunter-packages/json
   url = https://github.com/hunter-packages/json
+[submodule "ruslo/0"]
+  path = ruslo/0
+  url = https://github.com/ruslo/0
