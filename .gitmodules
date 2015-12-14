@@ -514,3 +514,6 @@
 [submodule "ruslo/0"]
   path = ruslo/0
   url = https://github.com/ruslo/0
+[submodule "ruslo/CGold"]
+  path = ruslo/CGold
+  url = https://github.com/ruslo/CGold
