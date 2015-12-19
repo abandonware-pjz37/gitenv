@@ -517,3 +517,6 @@
 [submodule "ruslo/CGold"]
   path = ruslo/CGold
   url = https://github.com/ruslo/CGold
+[submodule "forexample/ios-xcode-templates"]
+  path = forexample/ios-xcode-templates
+  url = https://github.com/forexample/ios-xcode-templates
