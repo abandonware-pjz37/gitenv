@@ -520,3 +520,6 @@
 [submodule "forexample/ios-xcode-templates"]
   path = forexample/ios-xcode-templates
   url = https://github.com/forexample/ios-xcode-templates
+[submodule "ruslo/yed-palettes"]
+  path = ruslo/yed-palettes
+  url = https://github.com/ruslo/yed-palettes
