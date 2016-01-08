@@ -523,3 +523,6 @@
 [submodule "ruslo/yed-uml"]
   path = ruslo/yed-uml
   url = https://github.com/ruslo/yed-uml
+[submodule "hunter-packages/googletest"]
+  path = hunter-packages/googletest
+  url = https://github.com/hunter-packages/googletest
