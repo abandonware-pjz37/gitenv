@@ -526,3 +526,6 @@
 [submodule "hunter-packages/googletest"]
   path = hunter-packages/googletest
   url = https://github.com/hunter-packages/googletest
+[submodule "qt/multimedia"]
+  path = qt/multimedia
+  url = ssh://codereview.qt-project.org/qt/qtmultimedia
