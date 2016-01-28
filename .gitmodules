@@ -529,3 +529,6 @@
 [submodule "qt/multimedia"]
   path = qt/multimedia
   url = ssh://codereview.qt-project.org/qt/qtmultimedia
+[submodule "travis-ci-tester/travis-test-gcc-cxx-11"]
+  path = travis-ci-tester/travis-test-gcc-cxx-11
+  url = https://github.com/travis-ci-tester/travis-test-gcc-cxx-11
