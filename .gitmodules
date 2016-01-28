@@ -532,3 +532,6 @@
 [submodule "travis-ci-tester/travis-test-gcc-cxx-11"]
   path = travis-ci-tester/travis-test-gcc-cxx-11
   url = https://github.com/travis-ci-tester/travis-test-gcc-cxx-11
+[submodule "travis-ci-tester/travis-test-clang-cxx-11"]
+  path = travis-ci-tester/travis-test-clang-cxx-11
+  url = https://github.com/travis-ci-tester/travis-test-clang-cxx-11
