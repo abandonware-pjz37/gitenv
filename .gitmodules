@@ -538,3 +538,6 @@
 [submodule "travis-ci-tester/travis-test-clang-with-libcxx"]
   path = travis-ci-tester/travis-test-clang-with-libcxx
   url = https://github.com/travis-ci-tester/travis-test-clang-with-libcxx
+[submodule "hunter-packages/armadillo"]
+  path = hunter-packages/armadillo
+  url = https://github.com/hunter-packages/armadillo
