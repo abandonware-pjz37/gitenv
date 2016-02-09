@@ -541,3 +541,6 @@
 [submodule "hunter-packages/armadillo"]
   path = hunter-packages/armadillo
   url = https://github.com/hunter-packages/armadillo
+[submodule "boost/compute"]
+  path = boost/compute
+  url = https://github.com/boostorg/compute
