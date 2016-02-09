@@ -544,3 +544,6 @@
 [submodule "boost/compute"]
   path = boost/compute
   url = https://github.com/boostorg/compute
+[submodule "hunter-packages/boost-compute"]
+  path = hunter-packages/boost-compute
+  url = https://github.com/hunter-packages/boost-compute
