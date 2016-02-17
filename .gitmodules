@@ -547,3 +547,6 @@
 [submodule "hunter-packages/boost-compute"]
   path = hunter-packages/boost-compute
   url = https://github.com/hunter-packages/boost-compute
+[submodule "hunter-packages/arrayfire"]
+  path = hunter-packages/arrayfire
+  url = https://github.com/hunter-packages/arrayfire
