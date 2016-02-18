@@ -553,3 +553,6 @@
 [submodule "hunter-packages/alltheflops-threads"]
   path = hunter-packages/alltheflops-threads
   url = https://github.com/hunter-packages/alltheflops-threads
+[submodule "hunter-packages/clBLAS"]
+  path = hunter-packages/clBLAS
+  url = https://github.com/hunter-packages/clBLAS
