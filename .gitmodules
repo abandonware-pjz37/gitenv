@@ -550,3 +550,6 @@
 [submodule "hunter-packages/arrayfire"]
   path = hunter-packages/arrayfire
   url = https://github.com/hunter-packages/arrayfire
+[submodule "hunter-packages/alltheflops-threads"]
+  path = hunter-packages/alltheflops-threads
+  url = https://github.com/hunter-packages/alltheflops-threads
