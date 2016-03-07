@@ -556,3 +556,6 @@
 [submodule "hunter-packages/clBLAS"]
   path = hunter-packages/clBLAS
   url = https://github.com/hunter-packages/clBLAS
+[submodule "hunter-packages/protobuf"]
+  path = hunter-packages/protobuf
+  url = https://github.com/hunter-packages/protobuf
