@@ -559,3 +559,6 @@
 [submodule "hunter-packages/protobuf"]
   path = hunter-packages/protobuf
   url = https://github.com/hunter-packages/protobuf
+[submodule "travis-ci-tester/travis-test-python3-requests"]
+  path = travis-ci-tester/travis-test-python3-requests
+  url = https://github.com/travis-ci-tester/travis-test-python3-requests
