@@ -562,3 +562,6 @@
 [submodule "travis-ci-tester/travis-test-python3-requests"]
   path = travis-ci-tester/travis-test-python3-requests
   url = https://github.com/travis-ci-tester/travis-test-python3-requests
+[submodule "travis-ci-tester/travis-test-clang-mac-cxx-11"]
+  path = travis-ci-tester/travis-test-clang-mac-cxx-11
+  url = https://github.com/travis-ci-tester/travis-test-clang-mac-cxx-11
