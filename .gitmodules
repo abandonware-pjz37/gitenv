@@ -565,3 +565,6 @@
 [submodule "travis-ci-tester/travis-test-clang-mac-cxx-11"]
   path = travis-ci-tester/travis-test-clang-mac-cxx-11
   url = https://github.com/travis-ci-tester/travis-test-clang-mac-cxx-11
+[submodule "hunter-packages/freeimage"]
+  path = hunter-packages/freeimage
+  url = https://github.com/hunter-packages/freeimage
