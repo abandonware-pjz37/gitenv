@@ -568,3 +568,6 @@
 [submodule "hunter-packages/freeimage"]
   path = hunter-packages/freeimage
   url = https://github.com/hunter-packages/freeimage
+[submodule "hunter-packages/jpeg"]
+  path = hunter-packages/jpeg
+  url = https://github.com/hunter-packages/jpeg
