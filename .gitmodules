@@ -571,3 +571,6 @@
 [submodule "hunter-packages/jpeg"]
   path = hunter-packages/jpeg
   url = https://github.com/hunter-packages/jpeg
+[submodule "travis-ci-tester/travis-test-env"]
+  path = travis-ci-tester/travis-test-env
+  url = https://github.com/travis-ci-tester/travis-test-env
