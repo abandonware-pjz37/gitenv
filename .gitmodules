@@ -574,3 +574,6 @@
 [submodule "travis-ci-tester/travis-test-env"]
   path = travis-ci-tester/travis-test-env
   url = https://github.com/travis-ci-tester/travis-test-env
+[submodule "hunter-packages/android-ndk"]
+  path = hunter-packages/android-ndk
+  url = https://github.com/hunter-packages/android-ndk
