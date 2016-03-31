@@ -577,3 +577,6 @@
 [submodule "hunter-packages/android-ndk"]
   path = hunter-packages/android-ndk
   url = https://github.com/hunter-packages/android-ndk
+[submodule "travis-ci-tester/travis-test-osx-clang-gcc-same"]
+  path = travis-ci-tester/travis-test-osx-clang-gcc-same
+  url = https://github.com/travis-ci-tester/travis-test-osx-clang-gcc-same
