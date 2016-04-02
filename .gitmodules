@@ -580,3 +580,6 @@
 [submodule "travis-ci-tester/travis-test-osx-clang-gcc-same"]
   path = travis-ci-tester/travis-test-osx-clang-gcc-same
   url = https://github.com/travis-ci-tester/travis-test-osx-clang-gcc-same
+[submodule "hunter-packages/travis-linux-docker"]
+  path = hunter-packages/travis-linux-docker
+  url = https://github.com/hunter-packages/travis-linux-docker
