@@ -583,3 +583,6 @@
 [submodule "hunter-packages/travis-linux-docker"]
   path = hunter-packages/travis-linux-docker
   url = https://github.com/hunter-packages/travis-linux-docker
+[submodule "hunter-packages/android-cmake"]
+  path = hunter-packages/android-cmake
+  url = https://github.com/hunter-packages/android-cmake
