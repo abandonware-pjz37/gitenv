@@ -586,3 +586,6 @@
 [submodule "hunter-packages/android-cmake"]
   path = hunter-packages/android-cmake
   url = https://github.com/hunter-packages/android-cmake
+[submodule "hunter-test-cases/hunter_test_case_0"]
+  path = hunter-test-cases/hunter_test_case_0
+  url = https://github.com/hunter-test-cases/hunter_test_case_0
