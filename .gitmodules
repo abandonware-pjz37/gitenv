@@ -589,3 +589,6 @@
 [submodule "hunter-test-cases/hunter_test_case_0"]
   path = hunter-test-cases/hunter_test_case_0
   url = https://github.com/hunter-test-cases/hunter_test_case_0
+[submodule "travis-ci-tester/travis-test-linux-egl"]
+  path = travis-ci-tester/travis-test-linux-egl
+  url = https://github.com/travis-ci-tester/travis-test-linux-egl
