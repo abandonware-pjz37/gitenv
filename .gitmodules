@@ -592,3 +592,6 @@
 [submodule "travis-ci-tester/travis-test-linux-egl"]
   path = travis-ci-tester/travis-test-linux-egl
   url = https://github.com/travis-ci-tester/travis-test-linux-egl
+[submodule "travis-ci-tester/travis-test-android-dev-libs"]
+  path = travis-ci-tester/travis-test-android-dev-libs
+  url = https://github.com/travis-ci-tester/travis-test-android-dev-libs
