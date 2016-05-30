@@ -595,3 +595,6 @@
 [submodule "travis-ci-tester/travis-test-android-dev-libs"]
   path = travis-ci-tester/travis-test-android-dev-libs
   url = https://github.com/travis-ci-tester/travis-test-android-dev-libs
+[submodule "travis-test-multi-os-custom-osx-image"]
+  path = travis-test-multi-os-custom-osx-image
+  url = https://github.com/travis-ci-tester/travis-test-multi-os-custom-osx-image
