@@ -604,3 +604,6 @@
 [submodule "hunter-packages/poly2tri"]
   path = hunter-packages/poly2tri
   url = https://github.com/hunter-packages/poly2tri
+[submodule "hunter-packages/minizip"]
+  path = hunter-packages/minizip
+  url = https://github.com/hunter-packages/minizip
