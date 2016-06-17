@@ -601,3 +601,6 @@
 [submodule "hunter-packages/polyclipping"]
   path = hunter-packages/polyclipping
   url = https://github.com/hunter-packages/polyclipping
+[submodule "hunter-packages/poly2tri"]
+  path = hunter-packages/poly2tri
+  url = https://github.com/hunter-packages/poly2tri
