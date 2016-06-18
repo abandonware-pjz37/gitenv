@@ -607,3 +607,6 @@
 [submodule "hunter-packages/minizip"]
   path = hunter-packages/minizip
   url = https://github.com/hunter-packages/minizip
+[submodule "hunter-packages/openddl-parser"]
+  path = hunter-packages/openddl-parser
+  url = https://github.com/hunter-packages/openddl-parser
