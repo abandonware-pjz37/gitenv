@@ -610,3 +610,6 @@
 [submodule "hunter-packages/openddl-parser"]
   path = hunter-packages/openddl-parser
   url = https://github.com/hunter-packages/openddl-parser
+[submodule "hunter-packages/assimp"]
+  path = hunter-packages/assimp
+  url = https://github.com/hunter-packages/assimp
