@@ -619,3 +619,6 @@
 [submodule "hunter-packages/SDL2"]
   path = hunter-packages/SDL2
   url = https://github.com/hunter-packages/SDL2
+[submodule "hunter-packages/convertutf"]
+  path = hunter-packages/convertutf
+  url = https://github.com/hunter-packages/convertutf
