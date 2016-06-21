@@ -616,3 +616,6 @@
 [submodule "hunter-packages/SFML"]
   path = hunter-packages/SFML
   url = https://github.com/hunter-packages/SFML
+[submodule "hunter-packages/SDL2"]
+  path = hunter-packages/SDL2
+  url = https://github.com/hunter-packages/SDL2
