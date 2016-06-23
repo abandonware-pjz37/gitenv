@@ -622,3 +622,6 @@
 [submodule "hunter-packages/convertutf"]
   path = hunter-packages/convertutf
   url = https://github.com/hunter-packages/convertutf
+[submodule "hunter-packages/rapidjson"]
+  path = hunter-packages/rapidjson
+  url = https://github.com/hunter-packages/rapidjson
