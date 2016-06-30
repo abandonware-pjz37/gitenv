@@ -625,3 +625,6 @@
 [submodule "hunter-packages/rapidjson"]
   path = hunter-packages/rapidjson
   url = https://github.com/hunter-packages/rapidjson
+[submodule "cgold-examples/minimal-example"]
+  path = cgold-examples/minimal-example
+  url = https://github.com/cgold-examples/minimal-example
