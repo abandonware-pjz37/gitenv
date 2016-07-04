@@ -628,3 +628,6 @@
 [submodule "cgold-examples/minimal-example"]
   path = cgold-examples/minimal-example
   url = https://github.com/cgold-examples/minimal-example
+[submodule "hunter-packages/hunter-bot-elixir"]
+  path = hunter-packages/hunter-bot-elixir
+  url = https://github.com/hunter-packages/hunter-bot-elixir
