@@ -637,3 +637,6 @@
 [submodule "cgold-examples/minimum-required-example"]
   path = cgold-examples/minimum-required-example
   url = https://github.com/cgold-examples/minimum-required-example
+[submodule "cgold-examples/policy-examples"]
+  path = cgold-examples/policy-examples
+  url = https://github.com/cgold-examples/policy-examples
