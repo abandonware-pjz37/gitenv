@@ -643,3 +643,6 @@
 [submodule "cgold-examples/project-examples"]
   path = cgold-examples/project-examples
   url = https://github.com/cgold-examples/project-examples
+[submodule "forexample/qt-resources-istream"]
+  path = forexample/qt-resources-istream
+  url = https://github.com/forexample/qt-resources-istream
