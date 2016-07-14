@@ -646,3 +646,6 @@
 [submodule "forexample/qt-resources-istream"]
   path = forexample/qt-resources-istream
   url = https://github.com/forexample/qt-resources-istream
+[submodule "ruslo/rtfd-css"]
+  path = ruslo/rtfd-css
+  url = https://github.com/ruslo/rtfd-css
