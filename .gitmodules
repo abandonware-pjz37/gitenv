@@ -655,3 +655,6 @@
 [submodule "hunter-packages/xgboost"]
   path = hunter-packages/xgboost
   url = https://github.com/hunter-packages/xgboost
+[submodule "hunter-packages/thread-pool-cpp"]
+  path = hunter-packages/thread-pool-cpp
+  url = https://github.com/hunter-packages/thread-pool-cpp
