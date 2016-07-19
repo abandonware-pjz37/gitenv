@@ -652,3 +652,6 @@
 [submodule "hunter-packages/curl"]
   path = hunter-packages/curl
   url = https://github.com/hunter-packages/curl
+[submodule "hunter-packages/xgboost"]
+  path = hunter-packages/xgboost
+  url = https://github.com/hunter-packages/xgboost
