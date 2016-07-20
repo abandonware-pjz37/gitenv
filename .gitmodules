@@ -658,3 +658,6 @@
 [submodule "hunter-packages/thread-pool-cpp"]
   path = hunter-packages/thread-pool-cpp
   url = https://github.com/hunter-packages/thread-pool-cpp
+[submodule "hunter-packages/flatbuffers"]
+  path = hunter-packages/flatbuffers
+  url = https://github.com/hunter-packages/flatbuffers
