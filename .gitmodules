@@ -664,3 +664,6 @@
 [submodule "hunter-packages/dest"]
   path = hunter-packages/dest
   url = https://github.com/hunter-packages/dest
+[submodule "hunter-packages/ogles_gpgpu"]
+  path = hunter-packages/ogles_gpgpu
+  url = https://github.com/hunter-packages/ogles_gpgpu
