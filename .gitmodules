@@ -667,3 +667,6 @@
 [submodule "hunter-packages/ogles_gpgpu"]
   path = hunter-packages/ogles_gpgpu
   url = https://github.com/hunter-packages/ogles_gpgpu
+[submodule "hunter-packages/tinydir"]
+  path = hunter-packages/tinydir
+  url = https://github.com/hunter-packages/tinydir
