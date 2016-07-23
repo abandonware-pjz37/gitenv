@@ -673,3 +673,6 @@
 [submodule "appveyor-tester/cmake-android"]
   path = appveyor-tester/cmake-android
   url = https://github.com/appveyor-tester/cmake-android
+[submodule "cgold-examples/platforms-android-on-windows"]
+  path = cgold-examples/platforms-android-on-windows
+  url = https://github.com/cgold-examples/platforms-android-on-windows
