@@ -679,3 +679,6 @@
 [submodule "hunter-packages/crashpad"]
   path = hunter-packages/crashpad
   url = https://github.com/hunter-packages/crashpad
+[submodule "hunter-packages/mini_chromium"]
+  path = hunter-packages/mini_chromium
+  url = https://github.com/hunter-packages/mini_chromium
