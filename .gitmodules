@@ -676,3 +676,6 @@
 [submodule "cgold-examples/platforms-android-on-windows"]
   path = cgold-examples/platforms-android-on-windows
   url = https://github.com/cgold-examples/platforms-android-on-windows
+[submodule "hunter-packages/crashpad"]
+  path = hunter-packages/crashpad
+  url = https://github.com/hunter-packages/crashpad
