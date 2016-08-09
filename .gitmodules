@@ -682,3 +682,6 @@
 [submodule "hunter-packages/mini_chromium"]
   path = hunter-packages/mini_chromium
   url = https://github.com/hunter-packages/mini_chromium
+[submodule "travis-ci-tester/travis-test-python3"]
+  path = travis-ci-tester/travis-test-python3
+  url = https://github.com/travis-ci-tester/travis-test-python3
