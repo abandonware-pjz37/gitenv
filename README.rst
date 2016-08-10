@@ -38,7 +38,7 @@ Load inited submodules from remotes:
 
 .. code-block:: shell
 
-  > git submodule update 
+  > git submodule update
   Cloning into 'doxygen'...
   remote: Counting objects: 23978, done.
   remote: Compressing objects: 100% (3004/3004), done.
@@ -81,8 +81,8 @@ Take a look at the remotes submodule use:
 
   > cd llvm/libcxxabi
   > git remote -v
-  origin	http://llvm.org/git/libcxxabi (fetch)
-  origin	http://llvm.org/git/libcxxabi (push)
+  origin  http://llvm.org/git/libcxxabi (fetch)
+  origin  http://llvm.org/git/libcxxabi (push)
 
 .. _gitenv: https://github.com/ruslo/gitenv
 .. _detach state: http://git-scm.com/docs/git-submodule
