@@ -685,3 +685,6 @@
 [submodule "travis-ci-tester/travis-test-python3"]
   path = travis-ci-tester/travis-test-python3
   url = https://github.com/travis-ci-tester/travis-test-python3
+[submodule "travis-ci-tester/travis-test-pip3"]
+  path = travis-ci-tester/travis-test-pip3
+  url = https://github.com/travis-ci-tester/travis-test-pip3
