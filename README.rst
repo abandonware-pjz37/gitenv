@@ -3,9 +3,10 @@
 .. image:: https://travis-ci.org/ruslo/gitenv.png?branch=master
   :target: https://travis-ci.org/ruslo/gitenv
 
-This is simply a collection of some git repos. The goal of the project is to have unified
-**layout** of directories with git repos. That is, if you have to clone some of this repos **anyway**, why don't
-have similar struct everytime (every machine) and have some benefits from it?
+This is simply a collection of some git repos. The goal of the project is to
+have unified **layout** of directories with git repos. That is, if you have to
+clone some of this repos **anyway**, why don't have similar structure every time
+(every machine) and have some benefits from it?
 
 *Note*: It's not a package manager, if you want to have **stable minimal** release snapshot,
 please refer to your favorite software manager like ``apt``, ``emerge``, ``macports``, etc.
