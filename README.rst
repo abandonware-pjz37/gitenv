@@ -8,8 +8,9 @@ have unified **layout** of directories with git repos. That is, if you have to
 clone some of this repos **anyway**, why don't have similar structure every time
 (every machine) and have some benefits from it?
 
-*Note*: It's not a package manager, if you want to have **stable minimal** release snapshot,
-please refer to your favorite software manager like ``apt``, ``emerge``, ``macports``, etc.
+*Note*: It's not a package manager, if you want to have **stable minimal**
+release snapshot, please refer to your favorite software manager like ``apt``,
+``emerge``, ``macports``, etc.
 
 Usage
 -----
