@@ -1,19 +1,20 @@
-# gitenv
-**Git** **Env**ironment meta-project (gtest, boost, llvm, cmake, ...)
+**Git** **Env**\ ironment meta-project.
 
-[![Build Status](https://travis-ci.org/ruslo/gitenv.png?branch=master)](https://travis-ci.org/ruslo/gitenv)
+.. image:: https://travis-ci.org/ruslo/gitenv.png?branch=master
+  :target: https://travis-ci.org/ruslo/gitenv
 
 This is simply a collection of some git repos. The goal of the project is to have unified
 **layout** of directories with git repos. That is, if you have to clone some of this repos **anyway**, why don't
-have similar struct everytime (every machine) and have some benefits from it:
-* [bash paths][link_bash_paths] (usage: [configs][link_configs])
+have similar struct everytime (every machine) and have some benefits from it?
 
-[link_bash_paths]: https://github.com/ruslo/gitenv/blob/master/gitenv/paths.sh
-[link_configs]: https://github.com/ruslo/configs/blob/master/unix/bashrc#L134
+.. note::
 
-*Note*: It's not a package manager, if you want to have *stable* *minimal* release snapshot, please refer to your favorite software manager like `apt`, `emerge`, `macports`, ...
+  It's not a package manager, if you want to have *stable* *minimal* release snapshot,
+  please refer to your favorite software manager like `apt`, `emerge`, `macports`, etc.
 
-## usage
+Usage
+-----
+
 Copy [gitenv](https://github.com/ruslo/gitenv) repo:
 ```bash
 > git clone https://github.com/ruslo/gitenv && cd gitenv
