@@ -1,24 +1,24 @@
 language:
-    - python
+  - python
 
 python:
-    - "3.3"
+  - "3.3"
 
 git:
-    submodules: false
+  submodules: false
 
 before_install:
-    - sudo apt-get update
-    - git submodule update --init ./configs ./google/gtest
+  - sudo apt-get update
+  - git submodule update --init ./configs ./google/gtest
 
 script:
-    # test submodule: configs
-    - python configs/setup.py --gitenv-root `pwd` --force
-    - source ~/.bashrc # now GITENV_ROOT environment variable can be used
-    - which gvim.py # test PATH updated
-    - which trash.py # test PATH updated
+  # test submodule: configs
+  - python configs/setup.py --gitenv-root `pwd` --force
+  - source ~/.bashrc # now GITENV_ROOT environment variable can be used
+  - which gvim.py # test PATH updated
+  - which trash.py # test PATH updated
 
-    # test submodule: gtest
-    - cd "${GITENV_ROOT}/google/gtest"
-    - cmake .
-    - make
+  # test submodule: gtest
+  - cd "${GITENV_ROOT}/google/gtest"
+  - cmake -H. -B_builds -DCMAKE_BUILD_TYPE=Debug
+  - cmake --build _builds
