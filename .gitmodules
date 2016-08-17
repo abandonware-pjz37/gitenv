@@ -688,3 +688,6 @@
 [submodule "travis-ci-tester/travis-test-pip3"]
   path = travis-ci-tester/travis-test-pip3
   url = https://github.com/travis-ci-tester/travis-test-pip3
+[submodule "hunter-packages/hunter-bot"]
+  path = hunter-packages/hunter-bot
+  url = https://github.com/hunter-packages/hunter-bot
