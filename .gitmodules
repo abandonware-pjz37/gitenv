@@ -691,3 +691,6 @@
 [submodule "hunter-packages/hunter-bot"]
   path = hunter-packages/hunter-bot
   url = https://github.com/hunter-packages/hunter-bot
+[submodule "ruslo/ansible-rust"]
+  path = ruslo/ansible-rust
+  url = https://github.com/ruslo/ansible-rust
