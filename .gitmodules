@@ -694,3 +694,6 @@
 [submodule "ruslo/ansible/rust"]
   path = ruslo/ansible/rust
   url = https://github.com/ruslo/ansible-rust
+[submodule "qed/ansible/socorro"]
+  path = qed/ansible/socorro
+  url = https://github.com/qedsoftware/ansible-socorro
