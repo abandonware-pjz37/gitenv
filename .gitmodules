@@ -697,3 +697,6 @@
 [submodule "qed/ansible/socorro"]
   path = qed/ansible/socorro
   url = https://github.com/qedsoftware/ansible-socorro
+[submodule "qed/ansible/opendronemap"]
+  path = qed/ansible/opendronemap
+  url = https://github.com/qedsoftware/ansible-opendronemap
