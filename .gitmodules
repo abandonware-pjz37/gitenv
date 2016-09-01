@@ -700,3 +700,6 @@
 [submodule "qed/ansible/opendronemap"]
   path = qed/ansible/opendronemap
   url = https://github.com/qedsoftware/ansible-opendronemap
+[submodule "hunter-packages/eos"]
+  path = hunter-packages/eos
+  url = https://github.com/hunter-packages/eos
