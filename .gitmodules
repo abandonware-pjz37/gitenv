@@ -703,3 +703,6 @@
 [submodule "hunter-packages/eos"]
   path = hunter-packages/eos
   url = https://github.com/hunter-packages/eos
+[submodule "cgold-examples/fruits"]
+  path = cgold-examples/fruits
+  url = https://github.com/cgold-examples/fruits
