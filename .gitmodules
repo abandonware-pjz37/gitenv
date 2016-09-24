@@ -706,3 +706,6 @@
 [submodule "cgold-examples/fruits"]
   path = cgold-examples/fruits
   url = https://github.com/cgold-examples/fruits
+[submodule "hunter-packages/gsl"]
+  path = hunter-packages/gsl
+  url = https://github.com/hunter-packages/gsl
