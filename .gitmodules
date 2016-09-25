@@ -709,3 +709,6 @@
 [submodule "hunter-packages/gsl"]
   path = hunter-packages/gsl
   url = https://github.com/hunter-packages/gsl
+[submodule "forexample/big-shared"]
+  path = forexample/big-shared
+  url = https://github.com/forexample/big-shared
