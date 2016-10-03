@@ -721,3 +721,6 @@
 [submodule "hunter-packages/OpenBLAS"]
   path = hunter-packages/OpenBLAS
   url = https://github.com/hunter-packages/OpenBLAS
+[submodule "forexample/caffe-simple-with-hunter"]
+  path = forexample/caffe-simple-with-hunter
+  url = https://github.com/forexample/caffe-simple-with-hunter
