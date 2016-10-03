@@ -712,3 +712,6 @@
 [submodule "forexample/big-shared"]
   path = forexample/big-shared
   url = https://github.com/forexample/big-shared
+[submodule "hunter-packages/caffe"]
+  path = hunter-packages/caffe
+  url = https://github.com/hunter-packages/caffe
