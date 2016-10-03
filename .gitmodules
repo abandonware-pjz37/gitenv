@@ -715,3 +715,6 @@
 [submodule "hunter-packages/caffe"]
   path = hunter-packages/caffe
   url = https://github.com/hunter-packages/caffe
+[submodule "hunter-packages/gflags"]
+  path = hunter-packages/gflags
+  url = https://github.com/hunter-packages/gflags
