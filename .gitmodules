@@ -724,3 +724,9 @@
 [submodule "forexample/caffe-simple-with-hunter"]
   path = forexample/caffe-simple-with-hunter
   url = https://github.com/forexample/caffe-simple-with-hunter
+[submodule "hunter-packages/yaml-cpp"]
+  path = hunter-packages/yaml-cpp
+  url = https://github.com/hunter-packages/yaml-cpp
+[submodule "hunter-packages/qt-multimedia"]
+  path = hunter-packages/qt-multimedia
+  url = https://github.com/hunter-packages/qt-multimedia
