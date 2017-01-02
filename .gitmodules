@@ -730,3 +730,6 @@
 [submodule "hunter-packages/qt-multimedia"]
   path = hunter-packages/qt-multimedia
   url = https://github.com/hunter-packages/qt-multimedia
+[submodule "hunter-packages/eigen"]
+  path = hunter-packages/eigen
+  url = https://github.com/hunter-packages/eigen
