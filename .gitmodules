@@ -730,3 +730,6 @@
 [submodule "hunter-packages/eigen"]
   path = hunter-packages/eigen
   url = https://github.com/hunter-packages/eigen
+[submodule "hunter-packages/ceres-solver"]
+  path = hunter-packages/ceres-solver
+  url = https://github.com/hunter-packages/ceres-solver/
