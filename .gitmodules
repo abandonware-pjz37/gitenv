@@ -733,3 +733,6 @@
 [submodule "hunter-packages/ceres-solver"]
   path = hunter-packages/ceres-solver
   url = https://github.com/hunter-packages/ceres-solver/
+[submodule "hunter-packages/cxxopts"]
+  path = hunter-packages/cxxopts
+  url = https://github.com/hunter-packages/cxxopts
