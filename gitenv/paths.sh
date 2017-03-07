@@ -45,12 +45,6 @@ then
     [ "${GITENV_VERBOSE}" = "1" ] && echo "[gitenv] set HUNTER_ROOT to '${HUNTER_ROOT}'"
   fi
 
-  if [ -r "${GITENV_ROOT}/llvm/_install/bin/clang" ];
-  then
-    [ "${GITENV_VERBOSE}" = "1" ] && echo "[gitenv] add '${GITENV_ROOT}/llvm/_install/bin' directory to PATH"
-    export PATH="${GITENV_ROOT}/llvm/_install/bin":${PATH}
-  fi
-
   asan="${GITENV_ROOT}/llvm/compiler-rt/lib/asan/scripts"
   if [ -r "${asan}/asan_symbolize.py" ];
   then
