@@ -739,3 +739,6 @@
 [submodule "hunter-packages/xz"]
   path = hunter-packages/xz
   url = https://github.com/hunter-packages/xz
+[submodule "hunter-packages/lzma"]
+  path = hunter-packages/lzma
+  url = https://github.com/hunter-packages/lzma
