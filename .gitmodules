@@ -739,3 +739,6 @@
 [submodule "hunter-packages/lzma"]
   path = hunter-packages/lzma
   url = https://github.com/hunter-packages/lzma
+[submodule "hunter-packages/mtplz"]
+  path = hunter-packages/mtplz
+  url = https://github.com/hunter-packages/mtplz
