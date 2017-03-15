@@ -736,3 +736,6 @@
 [submodule "hunter-packages/cxxopts"]
   path = hunter-packages/cxxopts
   url = https://github.com/hunter-packages/cxxopts
+[submodule "hunter-packages/xz"]
+  path = hunter-packages/xz
+  url = https://github.com/hunter-packages/xz
