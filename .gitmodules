@@ -742,3 +742,6 @@
 [submodule "hunter-packages/mtplz"]
   path = hunter-packages/mtplz
   url = https://github.com/hunter-packages/mtplz
+[submodule "hunter-packages/cpp_rsc"]
+  path = hunter-packages/cpp_rsc
+  url = https://github.com/hunter-packages/cpp_rsc
