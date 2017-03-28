@@ -748,3 +748,6 @@
 [submodule "hunter-packages/imshow"]
   path = hunter-packages/imshow
   url = https://github.com/hunter-packages/imshow
+[submodule "hunter-packages/boost-pba"]
+  path = hunter-packages/boost-pba
+  url = https://github.com/hunter-packages/boost-pba
