@@ -751,3 +751,6 @@
 [submodule "hunter-packages/boost-pba"]
   path = hunter-packages/boost-pba
   url = https://github.com/hunter-packages/boost-pba
+[submodule "travis-ci-tester/travis-trusty-env"]
+  path = travis-ci-tester/travis-trusty-env
+  url = https://github.com/travis-ci-tester/travis-trusty-env
