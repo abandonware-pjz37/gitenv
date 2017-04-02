@@ -754,3 +754,6 @@
 [submodule "travis-ci-tester/travis-trusty-env"]
   path = travis-ci-tester/travis-trusty-env
   url = https://github.com/travis-ci-tester/travis-trusty-env
+[submodule "hunter-packages/ARM_NEON_2_x86_SSE"]
+  path = hunter-packages/ARM_NEON_2_x86_SSE
+  url = https://github.com/hunter-packages/ARM_NEON_2_x86_SSE
