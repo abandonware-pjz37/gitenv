@@ -757,3 +757,6 @@
 [submodule "hunter-packages/ARM_NEON_2_x86_SSE"]
   path = hunter-packages/ARM_NEON_2_x86_SSE
   url = https://github.com/hunter-packages/ARM_NEON_2_x86_SSE
+[submodule "hunter-packages/glfw"]
+  path = hunter-packages/glfw
+  url = https://github.com/hunter-packages/glfw
