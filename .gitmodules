@@ -760,3 +760,6 @@
 [submodule "hunter-packages/glfw"]
   path = hunter-packages/glfw
   url = https://github.com/hunter-packages/glfw
+[submodule "hunter-packages/nasm"]
+  path = hunter-packages/nasm
+  url = https://github.com/hunter-packages/nasm
