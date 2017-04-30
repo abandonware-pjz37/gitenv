@@ -763,3 +763,6 @@
 [submodule "hunter-packages/nasm"]
   path = hunter-packages/nasm
   url = https://github.com/hunter-packages/nasm
+[submodule "ansible-stuff/gitenv"]
+  path = ansible-stuff/gitenv
+  url = https://github.com/ansible-stuff/gitenv
