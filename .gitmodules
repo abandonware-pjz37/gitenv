@@ -769,3 +769,6 @@
 [submodule "ansible-stuff/ubuntu-bootstrap"]
   path = ansible-stuff/ubuntu-bootstrap
   url = https://github.com/ansible-stuff/ubuntu-bootstrap
+[submodule "ansible-stuff/ssh"]
+  path = ansible-stuff/ssh
+  url = https://github.com/ansible-stuff/ssh
