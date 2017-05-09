@@ -775,3 +775,6 @@
 [submodule "hunter-packages/llvm"]
   path = hunter-packages/llvm
   url = https://github.com/hunter-packages/llvm
+[submodule "hunter-packages/clang"]
+  path = hunter-packages/clang
+  url = https://github.com/hunter-packages/clang
