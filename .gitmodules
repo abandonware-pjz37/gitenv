@@ -772,3 +772,6 @@
 [submodule "ansible-stuff/ubuntu-bootstrap-root"]
   path = ansible-stuff/ubuntu-bootstrap-root
   url = https://github.com/ansible-stuff/ubuntu-bootstrap-root
+[submodule "hunter-packages/llvm"]
+  path = hunter-packages/llvm
+  url = https://github.com/hunter-packages/llvm
