@@ -781,3 +781,6 @@
 [submodule "travis-ci-tester/travis-test-linux-gcc-5"]
   path = travis-ci-tester/travis-test-linux-gcc-5
   url = https://github.com/travis-ci-tester/travis-test-linux-gcc-5
+[submodule "hunter-packages/poco"]
+  path = hunter-packages/poco
+  url = https://github.com/hunter-packages/poco
