@@ -790,3 +790,6 @@
 [submodule "hunter-packages/OpenNMT-Tokenizer"]
   path = hunter-packages/OpenNMT-Tokenizer
   url = https://github.com/hunter-packages/OpenNMT-Tokenizer
+[submodule "hunter-packages/onmt"]
+  path = hunter-packages/onmt
+  url = https://github.com/hunter-packages/onmt
