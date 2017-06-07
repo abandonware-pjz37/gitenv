@@ -793,3 +793,6 @@
 [submodule "hunter-packages/onmt"]
   path = hunter-packages/onmt
   url = https://github.com/hunter-packages/onmt
+[submodule "hunter-packages/giflib"]
+  path = hunter-packages/giflib
+  url = https://github.com/hunter-packages/giflib
