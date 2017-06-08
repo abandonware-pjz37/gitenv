@@ -796,3 +796,6 @@
 [submodule "hunter-packages/giflib"]
   path = hunter-packages/giflib
   url = https://github.com/hunter-packages/giflib
+[submodule "hunter-packages/Beast"]
+  path = hunter-packages/Beast
+  url = https://github.com/hunter-packages/Beast
