@@ -799,3 +799,6 @@
 [submodule "hunter-packages/Beast"]
   path = hunter-packages/Beast
   url = https://github.com/hunter-packages/Beast
+[submodule "hunter-packages/gauze"]
+  path = hunter-packages/gauze
+  url = https://github.com/hunter-packages/gauze
