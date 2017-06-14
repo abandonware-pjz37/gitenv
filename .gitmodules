@@ -802,3 +802,6 @@
 [submodule "hunter-packages/gauze"]
   path = hunter-packages/gauze
   url = https://github.com/hunter-packages/gauze
+[submodule "travis-ci-tester/travis-test-glxinfo"]
+  path = travis-ci-tester/travis-test-glxinfo
+  url = https://github.com/travis-ci-tester/travis-test-glxinfo
