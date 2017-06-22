@@ -808,3 +808,6 @@
 [submodule "travis-ci-tester/travis-test-mingw"]
   path = travis-ci-tester/travis-test-mingw
   url = https://github.com/travis-ci-tester/travis-test-mingw
+[submodule "hunter-packages/spdlog"]
+  path = hunter-packages/spdlog
+  url = https://github.com/hunter-packages/spdlog
