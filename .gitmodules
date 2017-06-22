@@ -805,3 +805,6 @@
 [submodule "travis-ci-tester/travis-test-glxinfo"]
   path = travis-ci-tester/travis-test-glxinfo
   url = https://github.com/travis-ci-tester/travis-test-glxinfo
+[submodule "travis-ci-tester/travis-test-mingw"]
+  path = travis-ci-tester/travis-test-mingw
+  url = https://github.com/travis-ci-tester/travis-test-mingw
