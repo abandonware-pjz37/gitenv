@@ -814,3 +814,6 @@
 [submodule "travis-ci-tester/travis-test-fortran"]
   path = travis-ci-tester/travis-test-fortran
   url = https://github.com/travis-ci-tester/travis-test-fortran
+[submodule "hunter-packages/aes"]
+  path = hunter-packages/aes
+  url = https://github.com/hunter-packages/aes
