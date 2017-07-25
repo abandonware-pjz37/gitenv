@@ -817,3 +817,6 @@
 [submodule "hunter-packages/aes"]
   path = hunter-packages/aes
   url = https://github.com/hunter-packages/aes
+[submodule "forexample/fortran-simple"]
+  path = forexample/fortran-simple
+  url = https://github.com/forexample/fortran-simple
