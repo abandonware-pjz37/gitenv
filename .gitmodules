@@ -820,3 +820,9 @@
 [submodule "forexample/fortran-simple"]
   path = forexample/fortran-simple
   url = https://github.com/forexample/fortran-simple
+[submodule "forexample/hunter-with-disabled-mode-example"]
+  path = forexample/hunter-with-disabled-mode-example
+  url = https://github.com/forexample/hunter-with-disabled-mode-example
+[submodule "hunter-packages/disabled-mode"]
+  path = hunter-packages/disabled-mode
+  url = https://github.com/hunter-packages/disabled-mode
