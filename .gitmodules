@@ -826,3 +826,6 @@
 [submodule "hunter-packages/disabled-mode"]
   path = hunter-packages/disabled-mode
   url = https://github.com/hunter-packages/disabled-mode
+[submodule "hunter-packages/LLVMCompilerRT"]
+  path = hunter-packages/LLVMCompilerRT
+  url = https://github.com/hunter-packages/LLVMCompilerRT
