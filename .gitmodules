@@ -829,3 +829,6 @@
 [submodule "hunter-packages/LLVMCompilerRT"]
   path = hunter-packages/LLVMCompilerRT
   url = https://github.com/hunter-packages/LLVMCompilerRT
+[submodule "hunter-packages/cereal"]
+  path = hunter-packages/cereal
+  url = https://github.com/hunter-packages/cereal
