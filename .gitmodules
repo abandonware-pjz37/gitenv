@@ -832,3 +832,6 @@
 [submodule "hunter-packages/cereal"]
   path = hunter-packages/cereal
   url = https://github.com/hunter-packages/cereal
+[submodule "hunter-packages/libuv"]
+  path = hunter-packages/libuv
+  url = https://github.com/hunter-packages/libuv
