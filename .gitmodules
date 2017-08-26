@@ -835,3 +835,6 @@
 [submodule "hunter-packages/libuv"]
   path = hunter-packages/libuv
   url = https://github.com/hunter-packages/libuv
+[submodule "hunter-packages/libjson-rpc-cpp"]
+  path = hunter-packages/libjson-rpc-cpp
+  url = https://github.com/hunter-packages/libjson-rpc-cpp
