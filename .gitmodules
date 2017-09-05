@@ -838,3 +838,6 @@
 [submodule "hunter-packages/libjson-rpc-cpp"]
   path = hunter-packages/libjson-rpc-cpp
   url = https://github.com/hunter-packages/libjson-rpc-cpp
+[submodule "hunter-packages/double-conversion"]
+  path = hunter-packages/double-conversion
+  url = https://github.com/hunter-packages/double-conversion
