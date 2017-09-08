@@ -841,3 +841,6 @@
 [submodule "hunter-packages/double-conversion"]
   path = hunter-packages/double-conversion
   url = https://github.com/hunter-packages/double-conversion
+[submodule "hunter-packages/libevent"]
+  path = hunter-packages/libevent
+  url = https://github.com/hunter-packages/libevent
