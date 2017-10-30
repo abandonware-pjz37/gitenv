@@ -844,3 +844,6 @@
 [submodule "hunter-packages/libevent"]
   path = hunter-packages/libevent
   url = https://github.com/hunter-packages/libevent
+[submodule "hunter-packages/ogg"]
+  path = hunter-packages/ogg
+  url = https://github.com/hunter-packages/ogg
