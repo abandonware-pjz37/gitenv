@@ -847,3 +847,6 @@
 [submodule "hunter-packages/ogg"]
   path = hunter-packages/ogg
   url = https://github.com/hunter-packages/ogg
+[submodule "hunter-packages/Catch"]
+  path = hunter-packages/Catch
+  url = https://github.com/hunter-packages/Catch
