@@ -853,3 +853,6 @@
 [submodule "cgold-examples/toolchain-usage-examples"]
   path = cgold-examples/toolchain-usage-examples
   url = https://github.com/cgold-examples/toolchain-usage-examples
+[submodule "hunter-packages/jo_jpeg"]
+  path = hunter-packages/jo_jpeg
+  url = https://github.com/hunter-packages/jo_jpeg
