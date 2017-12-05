@@ -856,3 +856,6 @@
 [submodule "hunter-packages/jo_jpeg"]
   path = hunter-packages/jo_jpeg
   url = https://github.com/hunter-packages/jo_jpeg
+[submodule "hunter-packages/lz4"]
+  path = hunter-packages/lz4
+  url = https://github.com/hunter-packages/lz4
